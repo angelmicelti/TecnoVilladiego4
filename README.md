@@ -3,7 +3,7 @@ Repositorio para el alumnado de 4º del IES Virgen de Villadiego de Peñaflor, S
 
 Arduino
 
-1. [Dado electrónico](Arduino\dado_electrónico\dado electrónico.md)
+1. [Dado electrónico](\Arduino\dado_electrónico\dado electrónico.md)
 
 Arduinoblocks
 
