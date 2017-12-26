@@ -2,7 +2,8 @@
 
 Éste es el esquema de Fritzing
 
-![](imágenes/dado electronico_bb.png)
+
+![](imágenes/dado_circuito.png)
 
 Y éste es el croquis del montaje del dado:
 
