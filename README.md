@@ -3,7 +3,7 @@ Repositorio para el alumnado de 4º del IES Virgen de Villadiego de Peñaflor, S
 
 Arduino
 
-- [Dado electrónico](/Arduino/dado_electrónico/dado electrónico.md)
+- [Dado electrónico](/Arduino/dado_electrónico/README.md)
 
 Arduinoblocks
 
