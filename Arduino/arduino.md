@@ -1,8 +1,8 @@
 # Aprendiendo Arduino
 
-##Montajes "nivel pardillo"
+## Montajes "nivel pardillo"
 
 [Dado electrónico](dado_electrónico.md)
 
-##Montajes "nivel enteraíllo"
+## Montajes "nivel enteraíllo"
 
