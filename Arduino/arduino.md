@@ -1,8 +1,10 @@
 # Aprendiendo Arduino
 
 ## Montajes "nivel pardillo"
+- [Hola Mundo](led_blink.md)
 
-[Dado electrónico](dado_electrónico.md)
 
 ## Montajes "nivel enteraíllo"
 
+
+- [Dado electrónico](dado_electrónico.md)
