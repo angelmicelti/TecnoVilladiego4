@@ -8,4 +8,5 @@ Llamamos a este sencillo montaje BLINK u "Hola Mundo", porque es el primer progr
 
 ## Vídeo
 
-Observa el montaje funcionando en [este vídeo](https://www.youtube.com/embed/2RPqv3ILTJM).
+
+[![Haz clic para ir al vídeo](http://img.youtube.com/vi/2RPqv3ILTJM/0.jpg)](http://www.youtube.com/watch?v=2RPqv3ILTJM "Blink con LED")
