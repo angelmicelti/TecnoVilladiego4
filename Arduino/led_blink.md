@@ -1,4 +1,4 @@
-#LED intermitente
+# LED intermitente
 
 Llamamos a este sencillo montaje BLINK u "Hola Mundo", porque es el primer programa que realizamos en Arduino.
 
@@ -10,4 +10,4 @@ Llamamos a este sencillo montaje BLINK u "Hola Mundo", porque es el primer progr
 
 Observa el montaje funcionando...
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/2RPqv3ILTJM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+>  <iframe width="560" height="315" src="https://www.youtube.com/embed/2RPqv3ILTJM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
