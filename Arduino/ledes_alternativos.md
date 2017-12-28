@@ -11,7 +11,6 @@ Nos complicamos ahora un poco más la vida: disponemos en nuestro montaje de dos
 
 [![Haz clic para ir al vídeo](http://img.youtube.com/vi/JNdshfI1XXM/0.jpg)](http://www.youtube.com/watch?v=JNdshfI1XXM "Ledes alternativos")
 
-## Accede al código Arduino:
-[ledes alternativos](ledes_alternativos/ledes_alternativos.ino)
+## [Visualiza el código Arduino](ledes_alternativos/ledes_alternativos.ino)
 
-@[](ledes_alternativos/ledes_alternativos.ino)
+
