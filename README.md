@@ -9,4 +9,4 @@ Repositorio para el alumnado de 4º del IES Virgen de Villadiego de Peñaflor, S
 
 ## [ELECTRÓNICA ANALÓGICA](ElecAnalógica/ea.md)
 
-## [ELECTRÓNICA DIGITAL]((ElecDigital/ed.md)
+## [ELECTRÓNICA DIGITAL](ElecDigital/ed.md)
