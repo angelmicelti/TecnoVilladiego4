@@ -1,4 +1,4 @@
-# Semáforo para tráfico rodado
+# Proyecto 4: Semáforo para tráfico rodado
 
 El objetivo de este proyecto es simular un semáforo para el control del tráfico de vehículos. Tenemos tres luces, cuya secuencia es la siguiente:
 1. Luz roja: 6 segundos de duración.

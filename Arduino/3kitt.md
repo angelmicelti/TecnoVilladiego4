@@ -1,4 +1,4 @@
-# El Coche Fantástico
+# Proyecto 3: El Coche Fantástico
 
 Disponemos una secuencia de 8 ledes rojos que deben ir encendiéndose y apagándose de forma sucesiva, en un recorrido de izquierda a derecha y, posteriormente, de derecha a izquierda.
 

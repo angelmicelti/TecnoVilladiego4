@@ -1,4 +1,4 @@
-# LED intermitente
+# Proyecto 1: LED intermitente
 
 Llamamos a este sencillo montaje BLINK u "Hola Mundo", porque es el primer programa que realizamos en Arduino.
 

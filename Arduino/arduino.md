@@ -1,22 +1,22 @@
 # Aprendiendo Arduino
 
-## Montajes "nivel pardillo"
-- [Hola Mundo](1led_blink.md)
-- [Ledes alternativos](2ledes_alternativos.md)
-- [El Coche Fantástico](3kitt.md)
-- [Semáforo para tráfico rodado](4semáforo_v.md)
-- [Semáforo para vehículos y peatones](5semáforo_vp.md)
-- Entradas digitales: pulsador
-- Entradas digitales: pulsador y consola serie
+## Proyectos "nivel pardillo"
+- [Proyecto 1: Hola Mundo](1led_blink.md)
+- [Proyecto 2: Ledes alternativos](2ledes_alternativos.md)
+- [Proyecto 3: El Coche Fantástico](3kitt.md)
+- [Proyecto 4: Semáforo para tráfico rodado](4semáforo_v.md)
+- [Proyecto 5: Semáforo para vehículos y peatones](5semáforo_vp.md)
+- Proyecto 6: Entradas digitales: pulsador
+- Proyecto 7: Entradas digitales: pulsador y consola serie
 
 
-## Montajes "nivel enteraíllo"
+## Proyectos "nivel enteraíllo"
 
 
 - [Dado electrónico](dado_electrónico.md)
 
 
-### ((Montajes pendientes de clasificación))
+### ((Proyectos pendientes de clasificación))
 
 - Sonido con Arduino: tone.
 - Simulación de una puerta NOT

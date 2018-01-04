@@ -1,4 +1,4 @@
-# Ledes alternativos
+# Proyecto 2: Ledes alternativos
 
 Nos complicamos ahora un poco más la vida: disponemos en nuestro montaje de dos ledes, uno verde y uno rojo. Mientras encendemos uno, apagamos el otro y viceversa.
 

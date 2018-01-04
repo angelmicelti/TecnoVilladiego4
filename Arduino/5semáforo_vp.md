@@ -1,4 +1,4 @@
-# Semáforo para tráfico rodado
+# Proyecto 5: Semáforo para tráfico rodado
 
 Complicamos un poco ahora el [ejemplo anterior](semáforo_v.md), incluyendo dos ledes que simularán el comportamiento de las luces para peatones.
 
