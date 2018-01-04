@@ -3,7 +3,7 @@
 ## Montajes "nivel pardillo"
 - [Hola Mundo](led_blink.md)
 - [Ledes alternativos](ledes_alternativos.md)
-- El Coche Fantástico
+- [El Coche Fantástico](kitt.md)
 - Semáforo para tráfico rodado
 - Semáforo para vehículos y peatones
 - Entradas digitales: pulsador
@@ -16,7 +16,7 @@
 - [Dado electrónico](dado_electrónico.md)
 
 
-### Montajes pendientes de clasificación
+### ((Montajes pendientes de clasificación))
 
 - Sonido con Arduino: tone.
 - Simulación de una puerta NOT
