@@ -1,3 +1,3 @@
 # ELECTRÓNICA ANALÓGICA
 
-- [Todo sobre resistencias](1.todo_sobre_resistencias.pptx)
+- [Todo sobre resistencias](1.todo_sobre_resistencias.odp)
