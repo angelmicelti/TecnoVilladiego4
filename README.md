@@ -3,10 +3,15 @@ Repositorio para el alumnado de 4º del IES Virgen de Villadiego de Peñaflor, S
 
 ![](imágenes/logo_fondo_transparente200x300.png)
 
-## PROGRAMACIÓN
-### [Arduino](Arduino/arduino.md)
-
 
 ## [ELECTRÓNICA ANALÓGICA](ElecAnalógica/ea.md)
+Prácticas de electrónica analógica
 
 ## [ELECTRÓNICA DIGITAL](ElecDigital/ed.md)
+Prácticas de electrónica digital
+Ejercicios de electrónica digital resueltos
+FPGAndo
+Supuestos prácticos
+
+## PROGRAMACIÓN
+### [Arduino](Arduino/arduino.md)
