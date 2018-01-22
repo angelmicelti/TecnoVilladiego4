@@ -8,6 +8,8 @@ Repositorio para el alumnado de 4º del IES Virgen de Villadiego de Peñaflor, S
 - [Ejemplos de circuitos analógicos](ElecAnalógica/CircuitosApuntes/circuitos.md)
 - Prácticas de electrónica analógica
 - [Apuntes del tema](ud_electronica_analógica_V2018.pdf)
+
+
 -- Presentación: [Todo sobre resistencias](ElecAnalógica/TodoSobreResistencias.pdf)
 -- Presentación: [Todo sobre diodos](ElecAnalógica/TodoSobreDiodos.pdf)
 -- Presentación: [Todo sobre condensadores](ElecAnalógica/TodoSobreCondensador.pdf)
@@ -16,6 +18,7 @@ Repositorio para el alumnado de 4º del IES Virgen de Villadiego de Peñaflor, S
 
 
 ## [ELECTRÓNICA DIGITAL](ElecDigital/ed.md)
+
 - Prácticas de electrónica digital
 - Ejercicios de electrónica digital resueltos
 - FPGAndo en 4º de E.S.O.
