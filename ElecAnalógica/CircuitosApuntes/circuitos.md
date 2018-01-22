@@ -1,4 +1,7 @@
-# ++ EJEMPLOS DE CIRCUITOS ANALÓGICOS ++
+# ++EJEMPLOS DE CIRCUITOS ANALÓGICOS++
+
+Estos circuitos están simulados en Crocodile Technology. Puedes descargarlos y experimentar con ellos tanto como quieras. Sube y baja valores, cambia cables de sitio y, sobre todo, diviértete.
+Puedes **descargar Crocodile Technology** desde [este enlace](https://mega.nz/#!WB9DWJgY!42RwtjEhRjiRDeBIMDXtk3PYmDmsGy_arkmXCMFQyMk).
 
 ## 1.DIVISOR DE TENSIÓN
 ![](imagenes/divisor_tension.png)
