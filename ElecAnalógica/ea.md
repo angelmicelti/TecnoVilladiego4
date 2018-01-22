@@ -1,3 +1,4 @@
 # ELECTRÓNICA ANALÓGICA
 
-- [Todo sobre resistencias](1.todo_sobre_resistencias.odp)
+- [Ejemplos de circuitos analógicos](CircuitosApuntes/circuitos.md)
+- Prácticas de electrónica analógica

@@ -1,4 +1,4 @@
-# ++EJEMPLOS DE CIRCUITOS ANALÓGICOS++
+# ++ EJEMPLOS DE CIRCUITOS ANALÓGICOS ++
 
 ## 1.DIVISOR DE TENSIÓN
 ![](imagenes/divisor_tension.png)
