@@ -5,8 +5,8 @@ Repositorio para el alumnado de 4º del IES Virgen de Villadiego de Peñaflor, S
 
 
 ## [ELECTRÓNICA ANALÓGICA](ElecAnalógica/ea.md)
-- [** Apuntes del tema **](ElecAnalógica/ud_electronica_analógica_V2018.pdf)
-- [** Ejemplos de circuitos analógicos** (completan a los apuntes)](ElecAnalógica/CircuitosApuntes/circuitos.md)
+- [**Apuntes del tema**](ElecAnalógica/ud_electronica_analógica_V2018.pdf)
+- [**Ejemplos de circuitos analógicos** (completan a los apuntes)](ElecAnalógica/CircuitosApuntes/circuitos.md)
 - Presentaciones de clase:
   - Presentación: [Todo sobre resistencias](ElecAnalógica/TodoSobreResistencias.pdf)
   - Presentación: [Todo sobre diodos](ElecAnalógica/TodoSobreDiodos.pdf)
