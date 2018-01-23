@@ -86,6 +86,3 @@ Puedes **descargar Crocodile Technology** desde [este enlace](https://mega.nz/#!
 
 - - -
 
-CIRCUITOS DIARIOS
-[PULSA EL ENLACE](circuitos_diarios.epub)
-
