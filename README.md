@@ -7,18 +7,10 @@ Repositorio para el alumnado de 4º del IES Virgen de Villadiego de Peñaflor, S
 ## [ELECTRÓNICA ANALÓGICA](ElecAnalógica/ea.md)
 
 
-
-
-
 ## [ELECTRÓNICA DIGITAL](ElecDigital/ed.md)
 
-- Prácticas de electrónica digital
-- Ejercicios de electrónica digital resueltos
-- FPGAndo en 4º de E.S.O.
-- Supuestos prácticos
 
 
 ## PROGRAMACIÓN
 ### [Arduino](Arduino/arduino.md)
-
-## [TRAINERBOT](TrainerBot/tb.md)
+### [TrainerBot](TrainerBot/tb.md)
