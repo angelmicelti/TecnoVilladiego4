@@ -12,3 +12,5 @@ Repositorio para el alumnado de 4º del IES Virgen de Villadiego de Peñaflor, S
 ## PROGRAMACIÓN
 ### [Arduino](Arduino/arduino.md)
 ### [TrainerBot](TrainerBot/tb.md)
+
+## HISTORIA DE LA TECNOLOGÍA
