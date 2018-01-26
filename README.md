@@ -4,9 +4,9 @@ Repositorio para el alumnado de 4º del IES Virgen de Villadiego de Peñaflor, S
 ![](imágenes/logo_fondo_transparente200x300.png)
 
 
-## [ELECTRÓNICA ANALÓGICA](ElecAnalógica/ea.md)
+## [ELECTRÓNICA ANALÓGICA](ElecAnalógica/readme.md)
 
-## [ELECTRÓNICA DIGITAL](ElecDigital/ed.md)
+## [ELECTRÓNICA DIGITAL](ElecDigital/readme.md)
 
 
 ## PROGRAMACIÓN
