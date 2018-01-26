@@ -22,4 +22,4 @@
   - Boletín 8: transistores (II)
 
 - [Prácticas de electrónica analógica](Prácticas/practicas.md)
-- [Flippeando la Electrónica Analógica](/videosea/videosea.md)
+- [Flippeando la Electrónica Analógica](videosea/videosea.md)
