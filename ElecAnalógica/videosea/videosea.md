@@ -8,6 +8,7 @@ Conceptos de intensidad y tensión
 [![Conceptos de intensidad y tensión](http://img.youtube.com/vi/R3LwyhIQxvo/0.jpg)](http://www.youtube.com/watch?v=R3LwyhIQxvo "Conceptos de intensidad y tensión")
 
 Resistencia eléctrica
+
 [![Resistencia eléctrica](http://img.youtube.com/vi/5_qRtC92xO0/0.jpg)](http://www.youtube.com/watch?v=5_qRtC92xO0 "Resistencia eléctrica")
 
 
