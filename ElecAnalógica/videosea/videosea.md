@@ -1,10 +1,14 @@
 # FLIPPEANDO LA ELECTRÓNICA ANALÓGICA
+Introducción a la Electrónica Analógica
 
-[Introducción a la Electrónica Analógica](https://www.youtube.com/watch?v=VGQyL-6L1zg) (aprobarfacil.com)
+[](http://img.youtube.com/vi/VGQyL-6L1zg/0.jpg)](http://www.youtube.com/watch?v=VGQyL-6L1zg "Introducción a la Electrónica Analógica"(https://www.youtube.com/watch?v=VGQyL-6L1zg)
 
-[Conceptos de intensidad y tensión](https://youtu.be/R3LwyhIQxvo)
+Conceptos de intensidad y tensión
 
-[Resistencia eléctrica](https://youtu.be/5_qRtC92xO0)
+[Conceptos de intensidad y tensión](http://img.youtube.com/vi/R3LwyhIQxvo/0.jpg)](http://www.youtube.com/watch?v=R3LwyhIQxvo "Conceptos de intensidad y tensión"(https://youtu.be/R3LwyhIQxvo)
+
+Resistencia eléctrica
+[Resistencia eléctrica](http://img.youtube.com/vi/5_qRtC92xO0/0.jpg)](http://www.youtube.com/watch?v=5_qRtC92xO0 "Resistencia eléctrica"(https://youtu.be/5_qRtC92xO0)
 
 Manejo de placas protoboard
 
