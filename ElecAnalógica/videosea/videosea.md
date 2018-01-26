@@ -1,7 +1,7 @@
 # FLIPPEANDO LA ELECTRÓNICA ANALÓGICA
 Introducción a la Electrónica Analógica
 
-[](http://img.youtube.com/vi/VGQyL-6L1zg/0.jpg)](http://www.youtube.com/watch?v=VGQyL-6L1zg "Introducción a la Electrónica Analógica"(https://www.youtube.com/watch?v=VGQyL-6L1zg)
+[Introducción a la Electrónica Analógica](http://img.youtube.com/vi/VGQyL-6L1zg/0.jpg)](http://www.youtube.com/watch?v=VGQyL-6L1zg "Introducción a la Electrónica Analógica"(https://www.youtube.com/watch?v=VGQyL-6L1zg)
 
 Conceptos de intensidad y tensión
 
