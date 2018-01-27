@@ -23,23 +23,22 @@
 
 - [Dado electrónico](dado_electrónico.md)
 
+### Proyectos pendientes de clasificación
 
-### ((Proyectos pendientes de clasificación))
-
-- Contador de pulsaciones en binario (8 bits)
-- LED RGB
-- Arco iris
-- Cronómetro con display
-- Control de relé
-- Cadena de montaje (accionamiento de un motor en una sola dirección)
-- Control del sentido de giro de un motor DC con pulsadores.
-- Control del sentido de giro de un motor DC con potenciómetro
-- Control de un servomotor
-- Control de un ascensor o montacargas
-- Control de un puente levadizo
-- Control de una cinta transportadora
-- Control de una puerta de cochera con finales de carrera
-- Control de un parking con número de plazas limitado
+- [ ] Contador de pulsaciones en binario (8 bits)
+- [ ] LED RGB
+- [ ] Arco iris
+- [ ] Cronómetro con display
+- [ ] Control de relé
+- [ ] Cadena de montaje (accionamiento de un motor en una sola dirección)
+- [ ] Control del sentido de giro de un motor DC con pulsadores.
+- [ ] Control del sentido de giro de un motor DC con potenciómetro
+- [ ] Control de un servomotor
+- [ ] Control de un ascensor o montacargas
+- [ ] Control de un puente levadizo
+- [ ] Control de una cinta transportadora
+- [ ] Control de una puerta de cochera con finales de carrera
+- [ ] Control de un parking con número de plazas limitado
 
 ### Proyectos del libro de 4º de E.S.O. de la Editorial Santillana
 - Semáforo con ledes de colores (133)
