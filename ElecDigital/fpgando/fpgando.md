@@ -1,4 +1,5 @@
-# FPGAndo por la E.S.O.
+# FPGAndo por la E.S.O. con IceZum Alhambra
+![IceZum Alhambra](http://fpgawars.github.io/img/projects/icezum.png)
 Micro-tutoriales de ObiJuan: **Electrónica digital para makers con FPGAs libres**
 1. [Electrónica digital para todos](https://youtu.be/R59Q-MwFbM8)
 2. [Poniendo en marcha Icestudio](https://youtu.be/ELQLphztOjQ)
@@ -12,3 +13,8 @@ Micro-tutoriales de ObiJuan: **Electrónica digital para makers con FPGAs libres
 10. [ServoBit](https://youtu.be/l1p-S1jtcP0)
 11. [Puertas AND. Habilitando circuitos](https://youtu.be/C9ZmECWfDfQ)
 12. [Interruptores y pulsadores externos](https://youtu.be/8UhAs8vLDq0)
+
+Problema 1
+Problema 2
+Problema 3
+Problema 4
