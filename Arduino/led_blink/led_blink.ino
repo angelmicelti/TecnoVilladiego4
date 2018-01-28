@@ -1,3 +1,6 @@
+// Tecnología 4º E.S.O.
+// I.E.S. Virgen de Villadiego (Peñaflor)
+
 void setup()
 {
   pinMode(12, OUTPUT);

@@ -1,3 +1,6 @@
+// Tecnología 4º E.S.O.
+// I.E.S. Virgen de Villadiego (Peñaflor)
+
 double valor;
 
 double i;

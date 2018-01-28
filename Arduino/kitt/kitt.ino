@@ -1,3 +1,6 @@
+// Tecnología 4º E.S.O.
+// I.E.S. Virgen de Villadiego (Peñaflor)
+
 void setup()
 {
 	pinMode(5, OUTPUT);
@@ -17,12 +20,12 @@ void loop()
     delay(100);
     digitalWrite(5,LOW);
     delay(100);
-  
+
   	digitalWrite(6,HIGH);
     delay(100);
     digitalWrite(6,LOW);
     delay(100);
-      
+
     digitalWrite(7,HIGH);
     delay(100);
     digitalWrite(7,LOW);
@@ -57,7 +60,7 @@ void loop()
     delay(100);
     digitalWrite(12,LOW);
     delay(100);
-      
+
     digitalWrite(11,HIGH);
     delay(100);
     digitalWrite(11,LOW);
@@ -88,5 +91,3 @@ void loop()
     digitalWrite(6,LOW);
     delay(100);
 }
-
-
