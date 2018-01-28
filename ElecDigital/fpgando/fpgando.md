@@ -19,7 +19,7 @@
 **Resueltos en IceStudio para probar en IceZum Alhambra**
 
 
-[Boletín 4](problemas/boletín4.pdf)  | [Boletín 5](problemas/boletín5.pdf)  | [Boletín 6](problemas/boletín6.pdf)  | [Boletín 7](problemas/boletín7.pdf) | [Boletín 8](problemas/boletín8.pdf)
+[Boletín 4](problemas/boletínED4.pdf)  | [Boletín 5](problemas/boletínED5.pdf)  | [Boletín 6](problemas/boletínED6.pdf)  | [Boletín 7](problemas/boletínED7.pdf) | [Boletín 8](problemas/boletínED8.pdf)
 --|---|---|--|--|
 Problema 4.1.  | Problema 5.1.  | Problema 6.1.   | Problema 7.1. | Problema 8.1.
 Problema 4.2.  | Problema 5.2.  | Problema 6.2.  |  Problema 7.2.| Problema 8.2.
