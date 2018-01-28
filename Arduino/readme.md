@@ -1,22 +1,23 @@
 # Aprendiendo Arduino
 
 ## Proyectos "nivel pardillo"
-- [Proyecto 1: Hola Mundo](1led_blink.md)
-- [Proyecto 2: Ledes alternativos](2ledes_alternativos.md)
-- [Proyecto 3: El Coche Fantástico](3kitt.md)
-- [Proyecto 4: Semáforo para tráfico rodado](4semáforo_v.md)
-- [Proyecto 5: Semáforo para vehículos y peatones](5semáforo_vp.md)
-- Proyecto 6: Entradas digitales: pulsador
-- Proyecto 7: Entradas digitales: pulsador y consola serie
+- [ ] [Proyecto 1: Hola Mundo](1led_blink.md)
+- [ ] [Proyecto 2: Ledes alternativos](2ledes_alternativos.md)
+- [ ] [Proyecto 3: El Coche Fantástico](3kitt.md)
+- [ ] [Proyecto 4: Semáforo para tráfico rodado](4semáforo_v.md)
+- [ ] [Proyecto 5: Semáforo para vehículos y peatones](5semáforo_vp.md)
+- [ ] Proyecto 6: Entradas digitales: pulsador
+- [ ] Proyecto 7: Entradas digitales: pulsador y consola serie
+
 
 ## Proyectos "nivel listillo"
-- Simulación de una puerta NOT
-- Operaciones booleanas en Arduino. Simulación de puertas lógicas con dos entradas: OR, AND, NOR, NAND.
-- Variables: parpadeo de un LED
-- Variables: el Coche Fantástico
-- Entrada analógica: sensor nocturno
-- Sonido con Arduino: tone.
-- Ventilador activado por luminosidad
+- [ ] Simulación de una puerta NOT
+- [ ] Operaciones booleanas en Arduino. Simulación de puertas lógicas con dos entradas: OR, AND, NOR, NAND.
+- [ ] Variables: parpadeo de un LED
+- [ ] Variables: el Coche Fantástico
+- [ ] Entrada analógica: sensor nocturno
+- [ ] Sonido con Arduino: tone.
+- [ ] Ventilador activado por luminosidad
 
 
 ## Proyectos "nivel enteraíllo"
