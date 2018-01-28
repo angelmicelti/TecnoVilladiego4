@@ -1,6 +1,7 @@
 # FPGAndo por la E.S.O. con IceZum Alhambra
 ![IceZum Alhambra](http://fpgawars.github.io/img/projects/icezum.png)
-Micro-tutoriales de ObiJuan: **Electrónica digital para makers con FPGAs libres**
+
+### Micro-tutoriales de ObiJuan: **Electrónica digital para makers con FPGAs libres**
 1. [Electrónica digital para todos](https://youtu.be/R59Q-MwFbM8)
 2. [Poniendo en marcha Icestudio](https://youtu.be/ELQLphztOjQ)
 3. [La Icezum Alhambra y otras placas con FPGAs libres](https://youtu.be/X0tTh7tYOZg)
@@ -14,7 +15,16 @@ Micro-tutoriales de ObiJuan: **Electrónica digital para makers con FPGAs libres
 11. [Puertas AND. Habilitando circuitos](https://youtu.be/C9ZmECWfDfQ)
 12. [Interruptores y pulsadores externos](https://youtu.be/8UhAs8vLDq0)
 
-Problema 1
-Problema 2
-Problema 3
-Problema 4
+### Circuitos correspondientes a los boletines de problemas prácticos
+**Resueltos en IceStudio para probar en IceZum Alhambra**
+
+
+[Boletín 4](problemas/boletín4.pdf)  | [Boletín 5](problemas/boletín5.pdf)  | [Boletín 6](problemas/boletín6.pdf)  | [Boletín 7](problemas/boletín7.pdf) | [Boletín 8](problemas/boletín8.pdf)
+--|---|---|--|--|
+Problema 4.1.  | Problema 5.1.  | Problema 6.1.   | Problema 7.1. | Problema 8.1.
+Problema 4.2.  | Problema 5.2.  | Problema 6.2.  |  Problema 7.2.| Problema 8.2.
+Problema 4.3.  | Problema 5.3.  |Problema 6.3.   |  Problema 7.3.|
+Problema 4.4.  | Problema 5.4.  |Problema 6.4.   | Problema 7.4. |
+Problema 4.5.  |   |  Problema 6.5. | Problema 7.5. |
+Problema 4.6.  |   |   | Problema 7.6. |
+Problema 4.7.  |   |   |  |
