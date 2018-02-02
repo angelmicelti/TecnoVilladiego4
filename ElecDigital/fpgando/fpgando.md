@@ -27,7 +27,7 @@
 [Problema 4.3.](problemas/Ej43.ice)  | [Problema 5.3.](problemas/Ej53.ice)  |Problema 6.3.   |  Problema 7.3.|
 [Problema 4.3. (con puertas de 3 entradas)](problemas/Ej43B.ice)|   |   |   |
 [Problema 4.4.](problemas/Ej44.ice)  | [Problema 5.4.](problemas/Ej54.ice)  |Problema 6.4.   | Problema 7.4. |
-[Problema 4.4. (en bloque)](problemas/Ej44Bloque.ice)  | Problema 5.4.  |Problema 6.4.   | Problema 7.4. |
+[Problema 4.4. (en bloque)](problemas/Ej44Bloque.ice)  |  |Problema 6.4.   | Problema 7.4. |
 [Problema 4.5.](problemas/Ej45.ice)  |   |  Problema 6.5. | Problema 7.5. |
 [Problema 4.5. (con puertas de 3 entradas)](problemas/Ej5B.ice)  |   |  Problema 6.5. | Problema 7.5. |
 [Problema 4.6.](problemas/Ej46.ice)  |   |   | Problema 7.6. |
