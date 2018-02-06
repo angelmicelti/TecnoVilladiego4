@@ -22,7 +22,7 @@
   - Boletín 8: transistores (II)
 
 
-- [Apps de electrónica analógica para tu móvil](/apps/readme.md)
+- [Apps de electrónica analógica para tu móvil](apps/readme.md)
 
 
 - [Prácticas de electrónica analógica](Prácticas/practicas.md)
