@@ -21,5 +21,9 @@
   - Boletín 7: transistores (I)
   - Boletín 8: transistores (II)
 
+
+- [Apps de electrónica analógica para tu móvil](/apps/readme)
+
+
 - [Prácticas de electrónica analógica](Prácticas/practicas.md)
 - [Flippeando la Electrónica Analógica](videosea/videosea.md)
