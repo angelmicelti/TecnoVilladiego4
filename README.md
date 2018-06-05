@@ -8,6 +8,7 @@ Repositorio para el alumnado de 4º del IES Virgen de Villadiego de Peñaflor, S
 
 ## [ELECTRÓNICA DIGITAL](ElecDigital/readme.md)
 
+## [PROYECTOS](Proyectos/proyectos.md)
 
 ## PROGRAMACIÓN
 ### [Arduino](Arduino/readme.md)
