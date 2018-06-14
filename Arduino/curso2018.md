@@ -5,8 +5,10 @@
 1. [Led blink](http://www.arduinoblocks.com/web/project/10323)
 2. [Botón](http://www.arduinoblocks.com/web/project/28410)
 3. [Semáforo con funciones](http://www.arduinoblocks.com/web/project/28318)
+  - [Montaje en TinkerCAD](https://www.tinkercad.com/things/iUQE89zXcXx)
 3. [Botón con memoria](http://www.arduinoblocks.com/web/project/28599)
 4. [Mostrar el número de pulsaciones por el puerto serie](http://www.arduinoblocks.com/web/project/28611)
+  - [Montaje en TinkerCAD](https://www.tinkercad.com/things/6Id7g0OrR1P)
 
 
 
