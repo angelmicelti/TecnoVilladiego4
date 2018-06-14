@@ -10,6 +10,11 @@
 4. [Mostrar el número de pulsaciones por el puerto serie](http://www.arduinoblocks.com/web/project/28611)
   - [Montaje en TinkerCAD](https://www.tinkercad.com/things/6Id7g0OrR1P)
 
+---
+TO-DO
+
+Servo
+Función milis(): conteo del tiempo de funcionamiento
 
 
 **EJERCICIOS PLANTEADOS**
@@ -18,3 +23,13 @@
 3. [El Coche Fantástico](https://classroom.google.com/c/NzMyNDkwNTU5Mlpa/a/MTU4NDU5NTgzODda/details)
 4. [Botón que decide](https://classroom.google.com/c/NzMyNDkwNTU5Mlpa/a/MTU4NTIxMjI4ODla/details).
 5. [Contar pulsaciones y enviarlas al puerto serie](https://classroom.google.com/c/NzMyNDkwNTU5Mlpa/a/MTU4NTgwNDI0MTVa/details).
+
+
+---
+TO-DO
+
+Gira el servo
+
+Contar el tiempo entre pulsaciones
+
+Problema final
