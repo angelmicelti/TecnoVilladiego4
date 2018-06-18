@@ -22,6 +22,5 @@
 4. [Mostrar el número de pulsaciones por el puerto serie](http://www.arduinoblocks.com/web/project/28611)
   - [Montaje en TinkerCAD](https://www.tinkercad.com/things/6Id7g0OrR1P)
 5. [Tiempo de funcionamiento (puerto serie)](http://www.arduinoblocks.com/web/project/29083)
----
 6. [Tiempo de funcionamiento (display LCD)](http://www.arduinoblocks.com/web/project/29085)
 7. [Movimiento elemental de un servo](http://www.arduinoblocks.com/web/project/29086)
