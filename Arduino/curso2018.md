@@ -20,11 +20,10 @@
 3. [Semáforo con funciones](http://www.arduinoblocks.com/web/project/28318)
 3. [Botón con memoria](http://www.arduinoblocks.com/web/project/28599)
 4. [Mostrar el número de pulsaciones por el puerto serie](http://www.arduinoblocks.com/web/project/28611)
-  - [Montaje en TinkerCAD](https://www.tinkercad.com/things/6Id7g0OrR1P)
 5. [Tiempo de funcionamiento (puerto serie)](http://www.arduinoblocks.com/web/project/29083)
 6. [Tiempo de funcionamiento (display LCD)](http://www.arduinoblocks.com/web/project/29085)
 7. [Movimiento elemental de un servo](http://www.arduinoblocks.com/web/project/29086)
-5. Contador decimal ascendente con funciones
-6. Contador hexadecimal ascendente con funciones
-7. Contador decimal descendente con funciones
-8. Contador hexadecimal descendente con funciones
+5. [Contador decimal ascendente con funciones](http://www.arduinoblocks.com/web/project/25315)
+6. [Contador hexadecimal ascendente con funciones](http://www.arduinoblocks.com/web/project/24153)
+7. [Contador decimal descendente con funciones](http://www.arduinoblocks.com/web/project/20078)
+8. [Contador hexadecimal descendente con funciones](http://www.arduinoblocks.com/web/project/25316)
