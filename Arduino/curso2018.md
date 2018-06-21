@@ -9,6 +9,11 @@
 3. [Botón con memoria](http://www.arduinoblocks.com/web/project/28599)
 4. [Mostrar el número de pulsaciones por el puerto serie](http://www.arduinoblocks.com/web/project/28611)
   - [Montaje en TinkerCAD](https://www.tinkercad.com/things/6Id7g0OrR1P)
+5. Contador decimal ascendente con funciones
+6. Contador hexadecimal ascendente con funciones
+7. Contador decimal descendente con funciones
+8. Contador hexadecimal descendente con funciones
+9.
 
 ---
 TO-DO
@@ -28,8 +33,8 @@ Función milis(): conteo del tiempo de funcionamiento
 ---
 TO-DO
 
-Gira el servo
+Gira el servo con los botones
 
 Contar el tiempo entre pulsaciones
 
-Problema final
+Proyecto final
