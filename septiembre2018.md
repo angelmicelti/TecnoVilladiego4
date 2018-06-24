@@ -1,4 +1,4 @@
-# **MATERIAL PARA LA RECUPERACIÓN DE TECNOLOGÍA 4**
+# **MATERIAL PARA LA RECUPERACIÓN DE TECNOLOGÍA 4º**
 ## CURSO 2017-2018
 
 Para recuperar la materia de Tecnología 4º tendrás que realizar satisfactoriamente unos trabajos (50% dde la nota) y superar una prueba escrita (50% de la nota) en el mes de septiembre.
