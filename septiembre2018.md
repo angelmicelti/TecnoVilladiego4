@@ -35,6 +35,8 @@ Resuelve los siguientes boletines en tu cuaderno:
 - [Boletín 4](ElecDigital/boletinED4.pdf)
 - [Boletín 5](ElecDigital/boletinED5.pdf)
 
+[Hoja](ElecDigital/Boletin0.pdf) con los circuitos integrados que aparecen en los problemas.
+
 
 Practica los ejercicios que hicimos en las sesiones flipped-learning
 - [Sesión 1 (Tareas)](ElecDigital/Sesion1T.pdf)
