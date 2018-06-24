@@ -17,3 +17,7 @@ Repositorio para el alumnado de 4º del IES Virgen de Villadiego de Peñaflor, S
 ## [HISTORIA DE LA TECNOLOGÍA](TecSociedad/readme.md)
 
 ## [TELECOMUNICACIONES](Telecos/readme.md)
+
+---
+
+[MATERIALES PARA RECUPERAR LA ASIGNATURA DE TECNOLOGÍA 4](septiembre2018.md)
