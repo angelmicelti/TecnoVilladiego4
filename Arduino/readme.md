@@ -3,11 +3,11 @@
 ### [Curso 2017-2018](curso2018.md)
 
 ## Proyectos "nivel pardillo"
-- [ ] [Proyecto 1: Hola Mundo](1led_blink.md)
-- [ ] [Proyecto 2: Ledes alternativos](2ledes_alternativos.md)
-- [ ] [Proyecto 3: El Coche Fantástico](3kitt.md)
-- [ ] [Proyecto 4: Semáforo para tráfico rodado](4semáforo_v.md)
-- [ ] [Proyecto 5: Semáforo para vehículos y peatones](5semáforo_vp.md)
+- [ ] [Proyecto 1: Hola Mundo](led_blink.md)
+- [ ] [Proyecto 2: Ledes alternativos](ledes_alternativos.md)
+- [ ] [Proyecto 3: El Coche Fantástico](kitt.md)
+- [ ] [Proyecto 4: Semáforo para tráfico rodado](semáforo_v.md)
+- [ ] [Proyecto 5: Semáforo para vehículos y peatones](semáforo_vp.md)
 - [ ] Proyecto 6: Entradas digitales: pulsador
 - [ ] Proyecto 7: Entradas digitales: pulsador y consola serie
 
