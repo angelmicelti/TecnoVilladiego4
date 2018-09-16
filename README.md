@@ -10,7 +10,7 @@ Repositorio para el alumnado de 4º del IES Virgen de Villadiego de Peñaflor, S
 
 ## Bloque 3: Electrónica
 
-### [Electrónica analógica](ElecAnalógica/readme.md)
+### [Electrónica analógica](ElecAnalogica/readme.md)
 
 ### [Electrónica digital](ElecDigital/readme.md)
 
@@ -30,4 +30,6 @@ Repositorio para el alumnado de 4º del IES Virgen de Villadiego de Peñaflor, S
 
 ***
 
-[MATERIALES PARA RECUPERAR LA ASIGNATURA DE TECNOLOGÍA 4](septiembre2018.md)
+[MATERIALES PARA RECUPERAR LA ASIGNATURA DE TECNOLOGÍA 4 (septiembre de 2018)](septiembre2018.md)
+
+$$ \frac{1}{n} $$
