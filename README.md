@@ -1,23 +1,33 @@
-<# TecnoVilladiego4
-Repositorio para el alumnado de 4º del IES Virgen de Villadiego de Peñaflor, Sevilla
+<h1 align="center">TecnoVilladiego4</h1>
+
+<h4 align="center"> Repositorio para el alumnado de Tecnología de 4º de E.S.O.
+del IES Virgen de Villadiego,
+
+de Peñaflor, Sevilla
 
 ![](imágenes/logo_fondo_transparente200x300.png)
+</h4>
 
 
 ## [Bloque 1: Tecnologías de la Información y la Comunicación](Telecos/readme.md)
+
 
 ## Bloque 2: Instalaciones en Viviendas
 
 ## Bloque 3: Electrónica
 
-### [Electrónica analógica](ElecAnalogica/readme.md)
+<h3 align="center">
 
-### [Electrónica digital](ElecDigital/readme.md)
+[Electrónica analógica](ElecAnalogica/readme.md)
+
+[Electrónica digital](ElecDigital/readme.md)
+
+</h3>
 
 ## Bloque 4: Control y robótica
 
-### [Arduino](Arduino/readme.md)
-### [TrainerBot](TrainerBot/readme.md)
+### - [Arduino](Arduino/readme.md)
+### - [TrainerBot](TrainerBot/readme.md)
 
 
 ## Bloque 5: Neumática e Hidráulica
@@ -31,5 +41,3 @@ Repositorio para el alumnado de 4º del IES Virgen de Villadiego de Peñaflor, S
 ***
 
 [MATERIALES PARA RECUPERAR LA ASIGNATURA DE TECNOLOGÍA 4 (septiembre de 2018)](septiembre2018.md)
-
-$$ \frac{1}{n} $$
