@@ -26,9 +26,13 @@ de Peñaflor, Sevilla
 
 ## Bloque 4: Control y robótica
 
-### - [Arduino](Arduino/readme.md)
-### - [TrainerBot](TrainerBot/readme.md)
+<h3 align="center">
 
+[Arduino](Arduino/readme.md)
+
+[TrainerBot](TrainerBot/readme.md)
+
+</h3>
 
 ## Bloque 5: Neumática e Hidráulica
 
