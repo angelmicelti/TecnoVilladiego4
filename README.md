@@ -12,10 +12,8 @@ de Peñaflor, Sevilla
 ## [Bloque 1: Tecnologías de la Información y la Comunicación](Telecos/readme.md)
 
 
-## Bloque 2: Instalaciones en Viviendas
+## [Bloque 2: Instalaciones en Viviendas](Instalaciones/readme.md)
 
--   [Apuntes on-line](https://angelmicelti.github.io/4ESO/INS/index.html)
--   [Descarga el ZIP](Instalaciones/Instalaciones.zip) con el tema, descomprímelo y ejecuta el archivo "index.html"
 
 ## Bloque 3: Electrónica
 
