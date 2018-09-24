@@ -15,7 +15,7 @@ de Peñaflor, Sevilla
 ## Bloque 2: Instalaciones en Viviendas
 
 -   [Apuntes on-line](https://angelmicelti.github.io/4ESO/INS/index.html)
--   [Descarga el ZIP](Instalaciones/Instalaciones2019.zip) con el tema, descomprímelo y ejecuta el archivo "index.html"
+-   [Descarga el ZIP](Instalaciones/Instalaciones.zip) con el tema, descomprímelo y ejecuta el archivo "index.html"
 
 ## Bloque 3: Electrónica
 
