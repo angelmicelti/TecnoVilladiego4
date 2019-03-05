@@ -4,7 +4,7 @@
 
 ---
 
-## PRÁCTICAS NIVEL "PRINGAÍLLO"
+## PRÁCTICAS NIVEL "PARDILLO"
 - [Práctica 0: conocimiento de TinkerCAD](https://docs.google.com/document/d/1zajJetkt1CjsBPwksIOLtnhY-PrKZnatQ9cedhQLzto/edit?usp=sharing)
 - [Práctica 1: divisor de tensión con tres resistencias](https://docs.google.com/document/d/1U2kBhpQIlo9Lpx5FsgVHdLi3QTDTvbw5qxUQg5J7M1w/edit?usp=sharing)
 - [Práctica 2: resistencias en paralelo. Medida de la intensidad.](https://docs.google.com/document/d/1-dJooQ4PfcR4-D3UkWQZKMxlN9W6Bkuv0Qmhh21qwC4/edit?usp=sharing)
@@ -16,7 +16,7 @@
 
 ---
 
-## PRÁCTICAS NIVEL "PARDILLO"
+## PRÁCTICAS NIVEL "NORMALILLO"
 
 - [Portada e información](P0.pdf)
 - [Práctica 1](P1.pdf)
@@ -28,6 +28,6 @@
 
 ---
 
-## PRÁCTICAS NIVEL "ENTERAILLO"
+## PRÁCTICAS NIVEL "ENTERAÍLLO"
 
-Estamos construyéndolas
+Próximamente
