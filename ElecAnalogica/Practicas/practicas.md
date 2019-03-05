@@ -2,6 +2,8 @@
 
 ![](https://image.slidesharecdn.com/prcticasdeelectrnicaanalgicai-120218205100-phpapp01/95/prcticas-de-electrnica-analgica-i-4-638.jpg?cb=1422655450)
 
+---
+
 ## PRÁCTICAS NIVEL "PRINGAÍLLO"
 [Práctica 0: conocimiento de TinkerCAD](https://docs.google.com/document/d/1zajJetkt1CjsBPwksIOLtnhY-PrKZnatQ9cedhQLzto/edit?usp=sharing)
 [Práctica 1: divisor de tensión con tres resistencias](https://docs.google.com/document/d/1U2kBhpQIlo9Lpx5FsgVHdLi3QTDTvbw5qxUQg5J7M1w/edit?usp=sharing)
@@ -10,6 +12,8 @@
 [Práctica 4: diodos y ledes](https://docs.google.com/document/d/1x3tvKWLAE8jeiYxef05CTEv-AUqw8lni6LNc5nh4hyA/edit?usp=sharing)
 [Práctica 5: condensadores](https://docs.google.com/document/d/1CLMezonwaFJl1TBCmlDPbU9Fkmus7wJY32VDKKFtnVY/edit?usp=sharing)
 [Práctica 6: transistor](https://docs.google.com/document/d/1R5VbzycoxOSWlX0IYnHXBABvlCYU_RG7YH-sxdNCIUY/edit?usp=sharing)
+
+---
 
 ## PRÁCTICAS NIVEL "PARDILLO"
 
@@ -21,6 +25,7 @@
 - [Práctica 5](P5.pdf)
 - [Práctica 6](P6.pdf)
 
+---
 
 ## PRÁCTICAS NIVEL "ENTERAILLO"
 
