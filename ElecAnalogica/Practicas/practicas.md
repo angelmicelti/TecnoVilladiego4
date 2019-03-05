@@ -5,13 +5,14 @@
 ---
 
 ## PRÁCTICAS NIVEL "PRINGAÍLLO"
-[Práctica 0: conocimiento de TinkerCAD](https://docs.google.com/document/d/1zajJetkt1CjsBPwksIOLtnhY-PrKZnatQ9cedhQLzto/edit?usp=sharing)
-[Práctica 1: divisor de tensión con tres resistencias](https://docs.google.com/document/d/1U2kBhpQIlo9Lpx5FsgVHdLi3QTDTvbw5qxUQg5J7M1w/edit?usp=sharing)
-[Práctica 2: resistencias en paralelo. Medida de la intensidad.](https://docs.google.com/document/d/1-dJooQ4PfcR4-D3UkWQZKMxlN9W6Bkuv0Qmhh21qwC4/edit?usp=sharing)
-[Práctica 3: resistencias variables. Potenciómetro y L.D.R.](https://docs.google.com/document/d/1UFEEPT9ahq6zlC-2hjRv2_8V8v2_X6CpX4AcGuXM9VQ/edit?usp=sharing)
-[Práctica 4: diodos y ledes](https://docs.google.com/document/d/1x3tvKWLAE8jeiYxef05CTEv-AUqw8lni6LNc5nh4hyA/edit?usp=sharing)
-[Práctica 5: condensadores](https://docs.google.com/document/d/1CLMezonwaFJl1TBCmlDPbU9Fkmus7wJY32VDKKFtnVY/edit?usp=sharing)
-[Práctica 6: transistor](https://docs.google.com/document/d/1R5VbzycoxOSWlX0IYnHXBABvlCYU_RG7YH-sxdNCIUY/edit?usp=sharing)
+- [Práctica 0: conocimiento de TinkerCAD](https://docs.google.com/document/d/1zajJetkt1CjsBPwksIOLtnhY-PrKZnatQ9cedhQLzto/edit?usp=sharing)
+- [Práctica 1: divisor de tensión con tres resistencias](https://docs.google.com/document/d/1U2kBhpQIlo9Lpx5FsgVHdLi3QTDTvbw5qxUQg5J7M1w/edit?usp=sharing)
+- [Práctica 2: resistencias en paralelo. Medida de la intensidad.](https://docs.google.com/document/d/1-dJooQ4PfcR4-D3UkWQZKMxlN9W6Bkuv0Qmhh21qwC4/edit?usp=sharing)
+- [Práctica 3: resistencias variables. Potenciómetro y L.D.R.](https://docs.google.com/document/d/1UFEEPT9ahq6zlC-2hjRv2_8V8v2_X6CpX4AcGuXM9VQ/edit?usp=sharing)
+- [Práctica 4: diodos y ledes](https://docs.google.com/document/d/1x3tvKWLAE8jeiYxef05CTEv-AUqw8lni6LNc5nh4hyA/edit?usp=sharing)
+- [Práctica 5: condensadores](https://docs.google.com/document/d/1CLMezonwaFJl1TBCmlDPbU9Fkmus7wJY32VDKKFtnVY/edit?usp=sharing)
+- [Práctica 6: transistor](https://docs.google.com/document/d/1R5VbzycoxOSWlX0IYnHXBABvlCYU_RG7YH-sxdNCIUY/edit?usp=sharing)
+
 
 ---
 
