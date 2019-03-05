@@ -24,4 +24,4 @@
 
 ## PRÁCTICAS NIVEL "ENTERAILLO"
 
-TO-DO
+Estamos construyéndolas
