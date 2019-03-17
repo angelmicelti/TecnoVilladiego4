@@ -2,7 +2,7 @@
 ![](http://universitariosmagazine.com/site/images/easyblog_articles/468/EDIGI1.jpg)
 
 ## PRÁCTICAS NIVEL "PARDILLO"
-- Práctica 1: entradas digitales. Resistencias pull-up y pull-down.
+- Práctica 1: entradas y salidas digitales. Resistencias pull-up y pull-down.
 - Práctica 2: negando con la puerta NOT.
 - Práctica 3: suma lógica con la puerta OR.
 - Práctica 4: producto lógico con la puerta AND.
