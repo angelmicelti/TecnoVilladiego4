@@ -3,11 +3,12 @@
 
 ## PRÁCTICAS NIVEL "PARDILLO"
 - Práctica 1: entradas digitales. Resistencias pull-up y pull-down.
-- Práctica 2: puerta NOT.
-- Práctica 3: puerta OR.
-- Práctica 4: puerta AND.
-- Práctica 5: montamos una ¡función lógica!
-- Práctica 6: resolvemos un sencillo problema.
+- Práctica 2: negando con la puerta NOT.
+- Práctica 3: suma lógica con la puerta OR.
+- Práctica 4: producto lógico con la puerta AND.
+- Práctica 5: encadenando puertas lógicas.
+- Práctica 6: montamos una ¡función lógica!
+- Práctica 7: resolvemos un sencillo problema.
 
 ## PRÁCTICAS NIVEL "NORMALILLO"
 (En preparación, tranquil@)
