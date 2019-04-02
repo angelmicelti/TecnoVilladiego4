@@ -6,7 +6,7 @@
 - [Práctica 2: negando con la puerta NOT](https://www.tinkercad.com/things/i1h5K1Ge3kF).
 - [Práctica 3: suma lógica con la puerta OR](https://www.tinkercad.com/things/3lCMxIsR8j2).
 - [Práctica 4: producto lógico con la puerta AND](https://www.tinkercad.com/things/7PQov7gR0DS).
-- Práctica 5: encadenando puertas lógicas.
+- [Práctica 5: encadenando puertas lógicas](https://www.tinkercad.com/things/cdIJVCazcBN).
 - Práctica 6: montamos una ¡función lógica!
 - Práctica 7: resolvemos un sencillo problema.
 
