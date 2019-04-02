@@ -7,7 +7,7 @@
 - [Práctica 3: suma lógica con la puerta OR](https://www.tinkercad.com/things/3lCMxIsR8j2).
 - [Práctica 4: producto lógico con la puerta AND](https://www.tinkercad.com/things/7PQov7gR0DS).
 - [Práctica 5: encadenando puertas lógicas](https://www.tinkercad.com/things/cdIJVCazcBN).
-- Práctica 6: montamos una ¡función lógica!
+- [Práctica 6: montamos una ¡función lógica!](https://www.tinkercad.com/things/4fJ3i9ZxRpB)
 - Práctica 7: resolvemos un sencillo problema.
 
 ## PRÁCTICAS NIVEL "NORMALILLO"
