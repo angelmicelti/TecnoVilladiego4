@@ -11,8 +11,8 @@ Es portable, por lo que puedes descargarlo directamente a tu PC, descomprimirlo 
 Práctica 1: negando con la puerta NOT
 Práctica 2: suma lógica con la puerta OR.
 Práctica 3: producto lógico con la puerta AND.
-Práctica 4:
-Práctica 5:
+Práctica 4: encadenando varias puertas lógicas.
+Práctica 5: ¡montamos una función lógica con puertas individuales!
 Práctica 6: resolvemos un sencillo problema.
 
 ---
@@ -28,8 +28,8 @@ En esta segunda tanda de prácticas introducimos el uso de TinkerCAD a modo de s
 - [Práctica 3: suma lógica con la puerta OR](https://www.tinkercad.com/things/3lCMxIsR8j2).
 - [Práctica 4: producto lógico con la puerta AND](https://www.tinkercad.com/things/7PQov7gR0DS).
 - [Práctica 5: encadenando puertas lógicas](https://www.tinkercad.com/things/cdIJVCazcBN).
-- [Práctica 6: montamos una ¡función lógica!](https://www.tinkercad.com/things/4fJ3i9ZxRpB)
-- Práctica 7: resolvemos un sencillo problema.
+- [Práctica 6: ¡montamos una función lógica con circuitos integrados!](https://www.tinkercad.com/things/4fJ3i9ZxRpB)
+- Práctica 7: resolvemos un sencillo problema con circuitos integrados.
 
 ---
 
