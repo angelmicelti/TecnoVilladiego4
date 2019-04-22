@@ -8,12 +8,12 @@ En esta primera tanda de prácticas intentaremos familiarizarnos con el simulado
 Es portable, por lo que puedes descargarlo directamente a tu PC, descomprimirlo y ejecutarlo desde esa misma carpeta. Puedes obtener la versión 0.22 en [este enlace](https://github.com/hneemann/Digital/releases/download/v0.22/Digital.zip).
 
 
-Práctica 1: negando con la puerta NOT
-Práctica 2: suma lógica con la puerta OR.
-Práctica 3: producto lógico con la puerta AND.
-Práctica 4: encadenando varias puertas lógicas.
-Práctica 5: ¡montamos una función lógica con puertas individuales!
-Práctica 6: resolvemos un sencillo problema.
+- [Práctica 1: negando con la puerta NOT](https://docs.google.com/document/d/1iJ7cgN0mHJPqaK3BvxQqF3LkJ6-RF1aSGijMy5XQ0tE/edit?usp=sharing)
+- Práctica 2: suma lógica con la puerta OR.
+- Práctica 3: producto lógico con la puerta AND.
+- Práctica 4: encadenando varias puertas lógicas.
+- Práctica 5: ¡montamos una función lógica con puertas individuales!
+- Práctica 6: resolvemos un sencillo problema.
 
 ---
 
