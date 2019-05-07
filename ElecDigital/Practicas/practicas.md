@@ -9,11 +9,11 @@ Es portable, por lo que puedes descargarlo directamente a tu PC, descomprimirlo 
 
 
 - [Práctica 1: negando con la puerta NOT](https://docs.google.com/document/d/1iJ7cgN0mHJPqaK3BvxQqF3LkJ6-RF1aSGijMy5XQ0tE/edit?usp=sharing)
-- Práctica 2: suma lógica con la puerta OR.
-- Práctica 3: producto lógico con la puerta AND.
-- Práctica 4: encadenando varias puertas lógicas.
-- Práctica 5: ¡montamos una función lógica con puertas individuales!
-- Práctica 6: resolvemos un sencillo problema.
+- [Práctica 2: suma lógica con la puerta OR](https://docs.google.com/document/d/16xrWl8jMmzKoYxqX6NTzNjuZ71b9dSwJ4VkPjFY5-TM/edit?usp=sharing).
+- [Práctica 3: producto lógico con la puerta AND](https://docs.google.com/document/d/1u73ao8wDyz9fFljM4bG6DNkKU4XxFfQ1AuwCUWMiq28/edit?usp=sharing).
+- [Práctica 4: encadenando varias puertas lógicas](https://docs.google.com/document/d/1bdw3e9Erm9FsB00Kx1SQnLC203BLAb3nKIdk5DczRiw/edit?usp=sharing).
+- [Práctica 5: ¡montamos una función lógica con puertas individuales!](https://docs.google.com/document/d/1vriLMRIuCsvPjZ58Ncf7YH7GbfpxsX0AVBab1EQ3R-g/edit?usp=sharing)
+- [Práctica 6: resolvemos un sencillo problema](https://docs.google.com/document/d/1aRf5Wr2FV-swbWl786TwomWAKs7pgPae61kL5NNn6qQ/edit?usp=sharing).
 
 ---
 
