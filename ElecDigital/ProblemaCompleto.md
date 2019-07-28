@@ -7,20 +7,20 @@ PASOS QUE VAMOS A SEGUIR SIEMPRE:
 1. [Identificación de las variables y la(s) función(es) lógica(s)](#Punto1)
 2. [Tabla de verdad del sistema](#Punto2)
 3. [Función lógica con minitérminos y maxitérminos](#Punto3)
-4. Implementación de la función sin simplificar SOP
-5. Implementación de la función sin simplificar POS
-6. Simplificación por el método de los diagramas de Karnaugh
-7. Implementación con puertas lógicas cualesquiera
-8. Implementación sólo con puertas NAND
-9. Implementación sólo con puertas NOR
-10. Montaje práctico
-  a. Con puertas cualesquiera
-  b. Sólo con puertas NAND
-  c. Sólo con puertas NOR
-11. Trabajando en FPGA
-  a. Implementación del problema con puertas lógicas
-  b. Implementación del problema con una tabla
-  c. Implementación del problema en Verilog
+4. [Implementación de la función sin simplificar SOP](#Punto4)
+5. [Implementación de la función sin simplificar POS](#Punto5)
+6. [Simplificación por el método de los diagramas de Karnaugh](#Punto6)
+7. [Implementación con puertas lógicas cualesquiera](#Punto7)
+8. Imp[lementación sólo con puertas NAND](#Punto8)
+9. [Implementación sólo con puertas NOR](#Punto9)
+10. [Montaje práctico](#Punto10)
+  a. [Con puertas cualesquiera](#Punto10a)
+  b. [Sólo con puertas NAND](#Punto10b)
+  c. [Sólo con puertas NOR](#Punto10c)
+11. [Trabajando en FPGA](#Punto11)
+  a. [Implementación del problema con puertas lógicas](#Punto11a)
+  b. [Implementación del problema con una tabla](#Punto11b)
+  c. [Implementación del problema en Verilog](#Punto11c)
 
 <a name="Punto1"></a>
 ## 1. Identificación de las variables y la función lógica
@@ -77,20 +77,24 @@ Dec  | A  | B  | C  | M
 <a name="Punto4"></a>
 4. Implementación de la función sin simplificar SOP
 
+[Subir](#top)
 
 <a name="Punto5"></a>
 
 5. Implementación de la función sin simplificar POS
+[Subir](#top)
 
 <a name="Punto6"></a>
 6. Simplificación por el método de los diagramas de Karnaugh
 
 
+[Subir](#top)
 
 <a name="Punto7"></a>
 7. Implementación con puertas lógicas cualesquiera
 
 
+[Subir](#top)
 
 <a name="Punto8"></a>
 8. Implementación sólo con puertas NAND
@@ -98,20 +102,37 @@ Dec  | A  | B  | C  | M
 
 
 
+[Subir](#top)
 
 <a name="Punto9"></a>
 9. Implementación sólo con puertas NOR
 
 
+[Subir](#top)
 
 <a name="Punto10"></a>
 10. Montaje práctico
+
+<a name="Punto10a"></a>
   a. Con puertas cualesquiera
+
+<a name="Punto10b"></a>
   b. Sólo con puertas NAND
+
+<a name="Punto10c"></a>
   c. Sólo con puertas NOR
+
+
+[Subir](#top)
 
 <a name="Punto11"></a>
 11. Trabajando en FPGA
+
+<a name="Punto11a"></a>
   a. Implementación del problema con puertas lógicas
+
+<a name="Punto11b"></a>
   b. Implementación del problema con una tabla
+
+<a name="Punto11c"></a>
   c. Implementación del problema en Verilog
