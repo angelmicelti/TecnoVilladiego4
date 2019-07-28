@@ -17,14 +17,25 @@ PASOS QUE VAMOS A SEGUIR SIEMPRE:
 
 
   a. [Con puertas cualesquiera](#Punto10a)
+
+
   b. [Sólo con puertas NAND](#Punto10b)
+
+
   c. [Sólo con puertas NOR](#Punto10c)
+
+
 11. [Trabajando en FPGA](#Punto11)
 
 
   a. [Implementación del problema con puertas lógicas](#Punto11a)
+
+
   b. [Implementación del problema con una tabla](#Punto11b)
+
+
   c. [Implementación del problema en Verilog](#Punto11c)
+
 
 <a name="Punto1"></a>
 ## 1. Identificación de las variables y la función lógica
