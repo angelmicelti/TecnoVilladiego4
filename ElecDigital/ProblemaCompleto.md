@@ -3,10 +3,10 @@
 **Cierta máquina disponible en el aula de Tecnología tiene tres interruptores (A, B y C) para su puesta en marcha, la cual se producirá al cumplirse estas condiciones: A y B tienen que activarse conjuntamente para que la máquina funcione. Basta que el interruptor C esté activado para que la máquina también funcione, independientemente del estado de A y B.**
 
 PASOS QUE VAMOS A SEGUIR SIEMPRE:
-
-1. [Identificación de las variables y la(s) función(es) lógica(s)](https://github.com/angelmicelti/TecnoVilladiego4/ElecDigital/ProblemaCompleto.md#Identificación-de-las-variables-y-la-función-lógica)
-2. Tabla de verdad del sistema
-3. Función lógica con minitérminos y maxitérminos
+<a name="top"></a>
+1. [Identificación de las variables y la(s) función(es) lógica(s)](#Punto1)
+2. [Tabla de verdad del sistema](#Punto2)
+3. [Función lógica con minitérminos y maxitérminos](#Punto3)
 4. Implementación de la función sin simplificar SOP
 5. Implementación de la función sin simplificar POS
 6. Simplificación por el método de los diagramas de Karnaugh
@@ -22,13 +22,16 @@ PASOS QUE VAMOS A SEGUIR SIEMPRE:
   b. Implementación del problema con una tabla
   c. Implementación del problema en Verilog
 
+<a name="Punto1"></a>
 ## 1. Identificación de las variables y la función lógica
 
 Si recordamos, las **variables binarias** son aquéllas que pueden tomar únicamente dos valores: 0 y 1, apagado y encendido, desconectado y conectado, bajo y alto, etc., y sólo dependen de ellas mismas.
 Así pues, parece claro que los interruptores A, B y C serán nuestras variables lógicas. Por tanto, tenemos un problema de **tres variables lógicas**.
 En cambio, el estado de la máquina (que podemos llamar, por ejemplo, M para abreviar) que también es binario (la máquina puede estar activada o desactivada) no es una variable lógica. Como el estado de la máquina depende los valores de A, B y C, diremos que **M es la función lógica**.
 
+[Subir](#top)
 
+<a name="Punto2"></a>
 ## 2. Tabla de verdad del sistema
 
 Para obtener la tabla de verdad, tenemos que tener en cuenta que:
@@ -49,4 +52,10 @@ Dec  | A  | B  | C  | M
 6  | 0  | 1  | 1  | 1
 7  | 0  | 1  | 1  | 1
 
+
+[Subir](#top)
+
+<a name="Punto3"></a>
 ## 3. Funciones lógicas con minterms y maxterms
+
+[Subir](#top)
