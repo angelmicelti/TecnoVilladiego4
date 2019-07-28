@@ -4,7 +4,7 @@
 
 PASOS QUE VAMOS A SEGUIR SIEMPRE:
 
-1. Identificación de las variables y la(s) función(es) lógica(s)
+1. [Identificación de las variables y la(s) función(es) lógica(s)](https://github.com/angelmicelti/TecnoVilladiego4/ElecDigital/ProblemaCompleto.md#Identificación de las variables y la(s) función(es) lógica(s))
 2. Tabla de verdad del sistema
 3. Función lógica con minitérminos y maxitérminos
 4. Implementación de la función sin simplificar SOP
@@ -49,10 +49,4 @@ Dec  | A  | B  | C  | M
 6  | 0  | 1  | 1  | 1
 7  | 0  | 1  | 1  | 1
 
-Expresión SOP
-M = A· ̅B ̅C+ A ̅·B·C+A·B ̅·C+A·B·C ̅+A·B·C
-O bien: M = Σ(1,3,5,6,7)
-
-Expresión POS
-M = (A+B+C)·(A+B ̅+C)·(A ̅+B+C)
-O bien: M = Π(0,2,4)
+## 3. Funciones lógicas con minterms y maxterms
