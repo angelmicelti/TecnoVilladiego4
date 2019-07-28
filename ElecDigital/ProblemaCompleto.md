@@ -105,7 +105,7 @@ O bien: M = Π(0,2,4)
 
 <a name="Punto8"></a>
 ## 8. Implementación sólo con puertas NAND
-![](soloNAND.png)
+![](SoloNAND.png)
 
 
 
@@ -114,7 +114,7 @@ O bien: M = Π(0,2,4)
 
 <a name="Punto9"></a>
 ## 9. Implementación sólo con puertas NOR
-![](soloNOR.png)
+![](SoloNOR.png)
 
 
 [Subir](#top)
@@ -124,15 +124,36 @@ O bien: M = Π(0,2,4)
 
 ## 10. Montaje práctico
 
+En este apartado vamos a utilizar dos herramientas:
+- [Simulador de circuitos digitales](https://mega.nz/#!zEMEUChA!100b1kDn7GI930JEeH__Y3JHLRVv-yUO9_sGDQHCiOY). Esta herramienta es portable: la puedes descargar a tu PC y montar los circuitos y guardarlos localmente.
+- [TinkerCAD](https://www.tinkercad.com). Ésta es una herramienta on-line. Todos los circuitos que montes en ella quedan almacenados en tu cuenta, y disponibles allá donde tengas conexión a Internet.
+
 <a name="Punto10a"></a>
   ### a. Con puertas cualesquiera
+
+  Montaje en el simulador de circuitos digitales
+![](10asim.png)
+  Montaje en TinkerCAD.
+  ![](10atink.png)
+
 
 <a name="Punto10b"></a>
   ### b. Sólo con puertas NAND
 
+  Montaje en el simulador de circuitos digitales
+  ![](10bsim.png)
+
+  Montaje en TinkerCAD.
+  ![](10btink.png)
+
 <a name="Punto10c"></a>
   ### c. Sólo con puertas NOR
 
+  Montaje en el simulador de circuitos digitales
+  ![](10csim.png)
+
+  Montaje en TinkerCAD.
+  ![](10ctink.png)
 
 [Subir](#top)
 
@@ -144,10 +165,18 @@ O bien: M = Π(0,2,4)
 <a name="Punto11a"></a>
   ### a. Implementación del problema con puertas lógicas
 
+  Una vez dominadas las expresiones vistas anteriormente, es fácil implementar en IceStudio el circuito correspondiente a nuestro problema.
+
 <a name="Punto11b"></a>
   ### b. Implementación del problema con una tabla
 
+  Podemos implementar nuestro problema también con una tabla de verdad en IceStudio.
+
 <a name="Punto11c"></a>
   ### c. Implementación del problema en Verilog
+
+  Como remate de nuestras técnicas de aprendizaje, podemos utilizar Verilog.
+
+  Verilog es un lenguaje de descripción de hardware, es decir, lo que "programamos" es hardware, componentes físicos.
 
   [Subir](#top)
