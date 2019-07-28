@@ -2,8 +2,8 @@
 
 **Cierta máquina disponible en el aula de Tecnología tiene tres interruptores (A, B y C) para su puesta en marcha, la cual se producirá al cumplirse estas condiciones: A y B tienen que activarse conjuntamente para que la máquina funcione. Basta que el interruptor C esté activado para que la máquina también funcione, independientemente del estado de A y B.**
 
-PASOS QUE VAMOS A SEGUIR SIEMPRE:
 <a name="top"></a>
+PASOS QUE VAMOS A SEGUIR SIEMPRE:
 1. [Identificación de las variables y la(s) función(es) lógica(s)](#Punto1)
 2. [Tabla de verdad del sistema](#Punto2)
 3. [Función lógica con minitérminos y maxitérminos](#Punto3)
@@ -57,5 +57,13 @@ Dec  | A  | B  | C  | M
 
 <a name="Punto3"></a>
 ## 3. Funciones lógicas con minterms y maxterms
+
+**Expresión SOP (Sum Of Products)**
+![Expresión de la función como suma de productos (SOP)](ElecDigital/SOP1.jpg)
+
+
+**Expresión POS (Product Of Sums)**
+![Expresión de la función como suma de productos (SOP)](ElecDigital/POS1.jpg)
+
 
 [Subir](#top)
