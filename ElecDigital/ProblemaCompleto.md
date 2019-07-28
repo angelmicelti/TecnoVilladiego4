@@ -59,11 +59,11 @@ Dec  | A  | B  | C  | M
 ## 3. Funciones lógicas con minterms y maxterms
 
 **Expresión SOP (Sum Of Products)**
-![Expresión de la función como suma de productos (SOP)](ElecDigital/SOP1.jpg)
+![Expresión de la función como suma de productos (SOP)](SOP1.jpg)
 
 
 **Expresión POS (Product Of Sums)**
-![Expresión de la función como suma de productos (SOP)](ElecDigital/POS1.jpg)
+![Expresión de la función como suma de productos (SOP)](POS1.jpg)
 
 
 [Subir](#top)
