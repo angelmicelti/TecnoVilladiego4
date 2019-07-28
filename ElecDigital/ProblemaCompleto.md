@@ -4,7 +4,7 @@
 
 PASOS QUE VAMOS A SEGUIR SIEMPRE:
 
-1. [Identificación de las variables y la(s) función(es) lógica(s)](https://github.com/angelmicelti/TecnoVilladiego4/ElecDigital/ProblemaCompleto.md#Identificación de las variables y la(s) función(es) lógica(s))
+1. [Identificación de las variables y la(s) función(es) lógica(s)](https://github.com/angelmicelti/TecnoVilladiego4/ElecDigital/ProblemaCompleto.md#Identificación-de-las-variables-y-la-función-lógica)
 2. Tabla de verdad del sistema
 3. Función lógica con minitérminos y maxitérminos
 4. Implementación de la función sin simplificar SOP
@@ -22,7 +22,7 @@ PASOS QUE VAMOS A SEGUIR SIEMPRE:
   b. Implementación del problema con una tabla
   c. Implementación del problema en Verilog
 
-## 1. Identificación de las variables y la(s) función(es) lógica(s)
+## 1. Identificación de las variables y la función lógica
 
 Si recordamos, las **variables binarias** son aquéllas que pueden tomar únicamente dos valores: 0 y 1, apagado y encendido, desconectado y conectado, bajo y alto, etc., y sólo dependen de ellas mismas.
 Así pues, parece claro que los interruptores A, B y C serán nuestras variables lógicas. Por tanto, tenemos un problema de **tres variables lógicas**.
