@@ -59,11 +59,59 @@ Dec  | A  | B  | C  | M
 ## 3. Funciones lógicas con minterms y maxterms
 
 **Expresión SOP (Sum Of Products)**
+
+
+
 ![Expresión de la función como suma de productos (SOP)](SOP1.jpg)
 
 
 **Expresión POS (Product Of Sums)**
+
+
+
 ![Expresión de la función como suma de productos (SOP)](POS1.jpg)
 
 
 [Subir](#top)
+
+<a name="Punto4"></a>
+4. Implementación de la función sin simplificar SOP
+
+
+<a name="Punto5"></a>
+
+5. Implementación de la función sin simplificar POS
+
+<a name="Punto6"></a>
+6. Simplificación por el método de los diagramas de Karnaugh
+
+
+
+<a name="Punto7"></a>
+7. Implementación con puertas lógicas cualesquiera
+
+
+
+<a name="Punto8"></a>
+8. Implementación sólo con puertas NAND
+
+
+
+
+
+<a name="Punto9"></a>
+9. Implementación sólo con puertas NOR
+
+
+
+<a name="Punto10"></a>
+10. Montaje práctico
+  a. Con puertas cualesquiera
+  b. Sólo con puertas NAND
+  c. Sólo con puertas NOR
+
+<a name="Punto11"></a>
+11. Trabajando en FPGA
+  a. Implementación del problema con puertas lógicas
+  b. Implementación del problema con una tabla
+  c. Implementación del problema en Verilog
