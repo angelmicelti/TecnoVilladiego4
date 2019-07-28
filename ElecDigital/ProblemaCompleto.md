@@ -77,29 +77,35 @@ O bien: M = Π(0,2,4)
 [Subir](#top)
 
 <a name="Punto4"></a>
-4. Implementación de la función sin simplificar SOP
+## 4. Implementación de la función sin simplificar SOP
 ![](SOP2.png)
 [Subir](#top)
 
 <a name="Punto5"></a>
 
-5. Implementación de la función sin simplificar POS
+## 5. Implementación de la función sin simplificar POS
+
+![](POS2.png)
+
 [Subir](#top)
 
 <a name="Punto6"></a>
-6. Simplificación por el método de los diagramas de Karnaugh
+## 6. Simplificación por el método de los diagramas de Karnaugh
+![](Karnaugh01.png)
 
 
 [Subir](#top)
 
 <a name="Punto7"></a>
-7. Implementación con puertas lógicas cualesquiera
+## 7. Implementación con puertas lógicas cualesquiera
+![](PuertasCualesquiera.png)
 
 
 [Subir](#top)
 
 <a name="Punto8"></a>
-8. Implementación sólo con puertas NAND
+## 8. Implementación sólo con puertas NAND
+![](soloNAND.png)
 
 
 
@@ -107,36 +113,41 @@ O bien: M = Π(0,2,4)
 [Subir](#top)
 
 <a name="Punto9"></a>
-9. Implementación sólo con puertas NOR
+## 9. Implementación sólo con puertas NOR
+![](soloNOR.png)
 
 
 [Subir](#top)
 
 <a name="Punto10"></a>
-10. Montaje práctico
+
+
+## 10. Montaje práctico
 
 <a name="Punto10a"></a>
-  a. Con puertas cualesquiera
+  ### a. Con puertas cualesquiera
 
 <a name="Punto10b"></a>
-  b. Sólo con puertas NAND
+  ### b. Sólo con puertas NAND
 
 <a name="Punto10c"></a>
-  c. Sólo con puertas NOR
+  ### c. Sólo con puertas NOR
 
 
 [Subir](#top)
 
 <a name="Punto11"></a>
-11. Trabajando en FPGA
+
+
+## 11. Trabajando en FPGA
 
 <a name="Punto11a"></a>
-  a. Implementación del problema con puertas lógicas
+  ### a. Implementación del problema con puertas lógicas
 
 <a name="Punto11b"></a>
-  b. Implementación del problema con una tabla
+  ### b. Implementación del problema con una tabla
 
 <a name="Punto11c"></a>
-  c. Implementación del problema en Verilog
+  ### c. Implementación del problema en Verilog
 
   [Subir](#top)
