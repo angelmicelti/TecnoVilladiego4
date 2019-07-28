@@ -148,6 +148,10 @@ En este apartado vamos a utilizar dos herramientas:
 
   Montaje en el simulador de circuitos digitales
 ![](10asim.png)
+
+Descárgalo y simúlalo en tu PC
+
+
   Montaje en TinkerCAD.
   ![](10atink.png)
 
@@ -158,6 +162,8 @@ En este apartado vamos a utilizar dos herramientas:
   Montaje en el simulador de circuitos digitales
   ![](10bsim.png)
 
+  Descárgalo y simúlalo en tu PC
+
   Montaje en TinkerCAD.
   ![](10btink.png)
 
@@ -166,6 +172,8 @@ En este apartado vamos a utilizar dos herramientas:
 
   Montaje en el simulador de circuitos digitales
   ![](10csim.png)
+
+  Descárgalo y simúlalo en tu PC
 
   Montaje en TinkerCAD.
   ![](10ctink.png)
