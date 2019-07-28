@@ -64,19 +64,21 @@ Dec  | A  | B  | C  | M
 
 ![Expresión de la función como suma de productos (SOP)](SOP1.jpg)
 
+O bien: M = Σ(1,3,5,6,7)
+
 
 **Expresión POS (Product Of Sums)**
 
-
-
 ![Expresión de la función como suma de productos (SOP)](POS1.jpg)
+
+O bien: M = Π(0,2,4)
 
 
 [Subir](#top)
 
 <a name="Punto4"></a>
 4. Implementación de la función sin simplificar SOP
-
+![](SOP2.png)
 [Subir](#top)
 
 <a name="Punto5"></a>
@@ -136,3 +138,5 @@ Dec  | A  | B  | C  | M
 
 <a name="Punto11c"></a>
   c. Implementación del problema en Verilog
+
+  [Subir](#top)
