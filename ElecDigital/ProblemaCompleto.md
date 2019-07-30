@@ -14,27 +14,13 @@ PASOS QUE VAMOS A SEGUIR **SIEMPRE**:
 8. [Implementación sólo con puertas NAND](#Punto8)
 9. [Implementación sólo con puertas NOR](#Punto9)
 10. [Montajes prácticos](#Punto10)
-
-
-    a. [Con puertas cualesquiera](#Punto10a)
-
-
-    b. [Sólo con puertas NAND](#Punto10b)
-
-
-    c. [Sólo con puertas NOR](#Punto10c)
-
-
+  1. [Con puertas cualesquiera](#Punto10a)
+  2. [Sólo con puertas NAND](#Punto10b)
+  3. [Sólo con puertas NOR](#Punto10c)
 11. [Trabajando en FPGA](#Punto11)
-
-
-    a. [Implementación del problema con puertas lógicas](#Punto11a)
-
-
-    b. [Implementación del problema con una tabla](#Punto11b)
-
-
-    c. [Implementación del problema en Verilog](#Punto11c)
+  1. [Implementación del problema con puertas lógicas](#Punto11a)
+  2. [Implementación del problema con una tabla](#Punto11b)
+  3. [Implementación del problema en Verilog](#Punto11c)
 
 
 <a name="Punto1"></a>
@@ -73,9 +59,10 @@ Dec  | A  | B  | C  | M
 <a name="Punto3"></a>
 ## 3. Funciones lógicas con minterms y maxterms
 
-**Expresión SOP (Sum Of Products), minterms o minitérminos**
-Un minitérmino puede obtenerse como se indica en este enlace.
-La primera forma canónica de una función puede obtenerse como indica este enlace.
+**Primera forma canónica o Expresión SOP (Sum Of Products)**
+Esta expresión se obtiene a partir de los [minitérminos](https://angelmicelti.github.io/4ESO/EDI/apndice_i_primera_y_segunda_formas_cannicas.html#minterm). Se obtiene como se explica en [este enlace](https://angelmicelti.github.io/4ESO/EDI/apndice_i_primera_y_segunda_formas_cannicas.html#PFC).
+
+
 Para nuestra función, quedará:
 
 
@@ -84,10 +71,9 @@ Para nuestra función, quedará:
 O bien: M = Σ(1,3,5,6,7)
 
 
-**Expresión POS (Product Of Sums), maxterms o maxitérminos**
+**Segunda forma canónica o Expresión POS (Product Of Sums)**
 
-Los maxitérminos pueden obtenerse como se indica en este enlace.
-La segunda forma conónica puede obtenerse como se indica en este enlace.
+Esta expresión se obtiene a partir de los https://angelmicelti.github.io/4ESO/EDI/apndice_i_primera_y_segunda_formas_cannicas.html#maxterm. Se obtiene como se indica en [este enlace](https://angelmicelti.github.io/4ESO/EDI/apndice_i_primera_y_segunda_formas_cannicas.html#SFC).
 
 ![Expresión de la función como suma de productos (SOP)](POS1.jpg)
 
