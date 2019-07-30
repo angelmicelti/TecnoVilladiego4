@@ -3,7 +3,7 @@
 **Cierta máquina disponible en el aula de Tecnología tiene tres interruptores (A, B y C) para su puesta en marcha, la cual se producirá al cumplirse estas condiciones: A y B tienen que activarse conjuntamente para que la máquina funcione. Basta que el interruptor C esté activado para que la máquina también funcione, independientemente del estado de A y B.**
 
 <a name="top"></a>
-PASOS QUE VAMOS A SEGUIR SIEMPRE:
+PASOS QUE VAMOS A SEGUIR **SIEMPRE**:
 1. [Identificación de las variables y la(s) función(es) lógica(s)](#Punto1)
 2. [Tabla de verdad del sistema](#Punto2)
 3. [Función lógica con minitérminos y maxitérminos](#Punto3)
@@ -11,7 +11,7 @@ PASOS QUE VAMOS A SEGUIR SIEMPRE:
 5. [Implementación de la función sin simplificar POS](#Punto5)
 6. [Simplificación por el método de los diagramas de Karnaugh](#Punto6)
 7. [Implementación con puertas lógicas cualesquiera](#Punto7)
-8. Imp[lementación sólo con puertas NAND](#Punto8)
+8. [Implementación sólo con puertas NAND](#Punto8)
 9. [Implementación sólo con puertas NOR](#Punto9)
 10. [Montajes prácticos](#Punto10)
 
