@@ -73,7 +73,7 @@ Dec  | A  | B  | C  | M
 <a name="Punto3"></a>
 ## 3. Funciones lógicas con minterms y maxterms
 
-**Expresión SOP (Sum Of Products)**
+**Expresión SOP (Sum Of Products), minterms o minitérminos**
 
 
 
@@ -82,23 +82,32 @@ Dec  | A  | B  | C  | M
 O bien: M = Σ(1,3,5,6,7)
 
 
-**Expresión POS (Product Of Sums)**
+**Expresión POS (Product Of Sums), maxterms o maxitérminos**
 
 ![Expresión de la función como suma de productos (SOP)](POS1.jpg)
 
 O bien: M = Π(0,2,4)
 
+Observa que los índices de los maxitérminos son los complementarios de los minterms (apartado anterior).
+
 
 [Subir](#top)
 
 <a name="Punto4"></a>
-## 4. Implementación de la función sin simplificar SOP
+## 4. Implementación de la función sin simplificar SOP.
+
+A continuación tenemos la implementación en Digital de la expresión SOP.
+
+
 ![](SOP2.png)
 [Subir](#top)
 
 <a name="Punto5"></a>
 
 ## 5. Implementación de la función sin simplificar POS
+
+
+A continuación tenemos la implementación en Digital de la expresión POS.
 
 ![](POS2.png)
 
