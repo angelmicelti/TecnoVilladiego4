@@ -15,20 +15,20 @@ PASOS QUE VAMOS A SEGUIR **SIEMPRE**:
 9. [Implementación sólo con puertas NOR](#Punto9)
 10. [Montajes prácticos](#Punto10)
 
-  a. [Con puertas cualesquiera](#Punto10a)
+     a. [Con puertas cualesquiera](#Punto10a)
 
-  b. [Sólo con puertas NAND](#Punto10b)
+     b. [Sólo con puertas NAND](#Punto10b)
 
-  c. [Sólo con puertas NOR](#Punto10c)
+     c. [Sólo con puertas NOR](#Punto10c)
 
 
 11. [Trabajando en FPGA](#Punto11)
 
-  a. [Implementación del problema con puertas lógicas](#Punto11a)
+     a. [Implementación del problema con puertas lógicas](#Punto11a)
 
-  b. [Implementación del problema con una tabla](#Punto11b)
+     b. [Implementación del problema con una tabla](#Punto11b)
 
-  c. [Implementación del problema en Verilog](#Punto11c)
+     c. [Implementación del problema en Verilog](#Punto11c)
 
 
 <a name="Punto1"></a>
@@ -44,9 +44,9 @@ En cambio, el estado de la máquina (que podemos llamar, por ejemplo, M para abr
 ## 2. Tabla de verdad del sistema
 
 Para obtener la tabla de verdad, tenemos que tener en cuenta que:
-- Habrá una columna por cada variable y otra para la función. Como hay tres variables, tendremos un total de cuatro columnas. Por cierto, llamaré "n" al número de variables. Entonces, n=3.
+- Habrá **una columna por cada variable** y **otra para la función**. Como hay tres variables, tendremos un total de cuatro columnas. Por cierto, llamaré "n" al número de variables. Entonces, n=3.
 
-- Habrá 2<sup>n</sup> filas (aparte del encabezado de la tabla, lógicamente). Como n = 3, habrá 2<sup>3</sup> = 8 filas.
+- Habrá **2<sup>n</sup>** filas (aparte del encabezado de la tabla, lógicamente). Como n = 3, habrá 2<sup>3</sup> = 8 filas.
 Una vez dibujada la tabla, la rellenamos con las combinaciones binarias de A, B y C, dispuestas en orden creciente.
 A mí me gusta añadir una columna a la izquierda, indicando el equivalente decimal de la combinación binaria de A, B y C. Quedaría así:
 
@@ -82,6 +82,9 @@ O bien: M = Σ(1,3,5,6,7)
 **Segunda forma canónica o Expresión POS (Product Of Sums)**
 
 Esta expresión se compone de los llamados [maxitérminos](https://angelmicelti.github.io/4ESO/EDI/apndice_i_primera_y_segunda_formas_cannicas.html#maxterm). Se obtiene como se explica en [este enlace](https://angelmicelti.github.io/4ESO/EDI/apndice_i_primera_y_segunda_formas_cannicas.html#SFC).
+
+---
+
 
 ![Expresión de la función como suma de productos (SOP)](POS1.jpg)
 
