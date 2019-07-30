@@ -74,7 +74,9 @@ Dec  | A  | B  | C  | M
 ## 3. Funciones lógicas con minterms y maxterms
 
 **Expresión SOP (Sum Of Products), minterms o minitérminos**
-
+Un minitérmino puede obtenerse como se indica en este enlace.
+La primera forma canónica de una función puede obtenerse como indica este enlace.
+Para nuestra función, quedará:
 
 
 ![Expresión de la función como suma de productos (SOP)](SOP1.jpg)
@@ -83,6 +85,9 @@ O bien: M = Σ(1,3,5,6,7)
 
 
 **Expresión POS (Product Of Sums), maxterms o maxitérminos**
+
+Los maxitérminos pueden obtenerse como se indica en este enlace.
+La segunda forma conónica puede obtenerse como se indica en este enlace.
 
 ![Expresión de la función como suma de productos (SOP)](POS1.jpg)
 
