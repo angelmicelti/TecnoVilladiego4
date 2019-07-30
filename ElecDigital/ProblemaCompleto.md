@@ -14,13 +14,21 @@ PASOS QUE VAMOS A SEGUIR **SIEMPRE**:
 8. [Implementación sólo con puertas NAND](#Punto8)
 9. [Implementación sólo con puertas NOR](#Punto9)
 10. [Montajes prácticos](#Punto10)
-  1. [Con puertas cualesquiera](#Punto10a)
-  2. [Sólo con puertas NAND](#Punto10b)
-  3. [Sólo con puertas NOR](#Punto10c)
+
+  a. [Con puertas cualesquiera](#Punto10a)
+
+  b. [Sólo con puertas NAND](#Punto10b)
+
+  c. [Sólo con puertas NOR](#Punto10c)
+
+
 11. [Trabajando en FPGA](#Punto11)
-  1. [Implementación del problema con puertas lógicas](#Punto11a)
-  2. [Implementación del problema con una tabla](#Punto11b)
-  3. [Implementación del problema en Verilog](#Punto11c)
+
+  a. [Implementación del problema con puertas lógicas](#Punto11a)
+
+  b. [Implementación del problema con una tabla](#Punto11b)
+
+  c. [Implementación del problema en Verilog](#Punto11c)
 
 
 <a name="Punto1"></a>
