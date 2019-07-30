@@ -78,12 +78,12 @@ Para nuestra función, quedará:
 
 O bien: M = Σ(1,3,5,6,7)
 
+---
+
 
 **Segunda forma canónica o Expresión POS (Product Of Sums)**
 
 Esta expresión se compone de los llamados [maxitérminos](https://angelmicelti.github.io/4ESO/EDI/apndice_i_primera_y_segunda_formas_cannicas.html#maxterm). Se obtiene como se explica en [este enlace](https://angelmicelti.github.io/4ESO/EDI/apndice_i_primera_y_segunda_formas_cannicas.html#SFC).
-
----
 
 
 ![Expresión de la función como suma de productos (SOP)](POS1.jpg)
