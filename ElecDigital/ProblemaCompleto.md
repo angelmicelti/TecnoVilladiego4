@@ -225,6 +225,7 @@ Descárgalo y simúlalo en tu PC
 
 [  https://www.tinkercad.com/things/efJZV0doPbd](https://www.tinkercad.com/things/efJZV0doPbd)
 
+---
 
 <a name="Punto10b"></a>
   ### b. Sólo con puertas NAND
@@ -239,7 +240,7 @@ Descárgalo y simúlalo en tu PC
 
   [https://www.tinkercad.com/things/kFgOo3q2Dbr](https://www.tinkercad.com/things/kFgOo3q2Dbr)
 
-
+---
 
 <a name="Punto10c"></a>
   ### c. Sólo con puertas NOR
