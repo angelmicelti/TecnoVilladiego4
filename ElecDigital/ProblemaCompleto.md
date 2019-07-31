@@ -289,4 +289,6 @@ Podemos abrir el bloque en IceStudio, y nos quedará con la siguiente "pinta":
 
   ![](IS4.jpg)
 
+  Sólo faltaría añadir las entradas A, B y C, así como la salida, M. Posteriormente, compilamos y subimos el circuito a la placa Alhambra (IceZum o II, da igual), e inmediatamente lo veremos funcionando. ¡Es genial!
+
   [Subir](#top)
