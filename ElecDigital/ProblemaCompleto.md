@@ -215,7 +215,7 @@ En este apartado vamos a utilizar dos herramientas:
   ### a. Con puertas cualesquiera
 
   Montaje en el simulador de circuitos digitales
-![](10asim.png)
+[![](10asim.png)](https://www.tinkercad.com/things/efJZV0doPbd)
 
 Descárgalo y simúlalo en tu PC
 
