@@ -214,13 +214,13 @@ En este apartado vamos a utilizar dos herramientas:
 <a name="Punto10a"></a>
   ### a. Con puertas cualesquiera
 
-  Montaje en el simulador de circuitos digitales
+_**  Montaje en el simulador de circuitos digitales**_
 [![](10asim.png)](https://www.tinkercad.com/things/efJZV0doPbd)
 
 [Descárgalo y simúlalo en tu PC](PCCV097Cualesquiera.txt)
 
 
-  Montaje en TinkerCAD.
+_**  Montaje en TinkerCAD.**_
   ![](10atink.png)
 
 [https://www.tinkercad.com/things/efJZV0doPbd](https://www.tinkercad.com/things/efJZV0doPbd)
@@ -230,13 +230,13 @@ En este apartado vamos a utilizar dos herramientas:
 <a name="Punto10b"></a>
   ### b. Sólo con puertas NAND
 
-  Montaje en el simulador de circuitos digitales
+_**  Montaje en el simulador de circuitos digitales**_
   ![](10bsim.png)
 
 [Descárgalo y simúlalo en tu PC](PCCV097SoloNAND.txt)
 
 
-  Montaje en TinkerCAD.
+_**  Montaje en TinkerCAD.**_
   ![](10btink.png)
 
   [https://www.tinkercad.com/things/kFgOo3q2Dbr](https://www.tinkercad.com/things/kFgOo3q2Dbr)
@@ -246,12 +246,12 @@ En este apartado vamos a utilizar dos herramientas:
 <a name="Punto10c"></a>
   ### c. Sólo con puertas NOR
 
-  Montaje en el simulador de circuitos digitales
+_**  Montaje en el simulador de circuitos digitales**_
   ![](10csim.png)
 
   [Descárgalo y simúlalo en tu PC](PCCV097SoloNOR.txt)
 
-  Montaje en TinkerCAD.
+_**  Montaje en TinkerCAD.**_
   ![](10ctink.png)
 
 [  https://www.tinkercad.com/things/0rTmQ8AvSLg](https://www.tinkercad.com/things/0rTmQ8AvSLg)
