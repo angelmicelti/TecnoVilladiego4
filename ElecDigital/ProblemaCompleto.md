@@ -217,7 +217,7 @@ En este apartado vamos a utilizar dos herramientas:
   Montaje en el simulador de circuitos digitales
 [![](10asim.png)](https://www.tinkercad.com/things/efJZV0doPbd)
 
-Descárgalo y simúlalo en tu PC
+[Descárgalo y simúlalo en tu PC](PCV097Cualesquiera.txt)
 
 
   Montaje en TinkerCAD.
@@ -233,7 +233,8 @@ Descárgalo y simúlalo en tu PC
   Montaje en el simulador de circuitos digitales
   ![](10bsim.png)
 
-  Descárgalo y simúlalo en tu PC
+[Descárgalo y simúlalo en tu PC](PCV097SoloNAND.txt)
+
 
   Montaje en TinkerCAD.
   ![](10btink.png)
@@ -248,7 +249,7 @@ Descárgalo y simúlalo en tu PC
   Montaje en el simulador de circuitos digitales
   ![](10csim.png)
 
-  Descárgalo y simúlalo en tu PC
+  [Descárgalo y simúlalo en tu PC](PCV097SoloNOR.txt)
 
   Montaje en TinkerCAD.
   ![](10ctink.png)
