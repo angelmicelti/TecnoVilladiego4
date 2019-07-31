@@ -276,7 +276,17 @@ Descárgalo y simúlalo en tu PC
 
   Verilog es un lenguaje de descripción de hardware, es decir, lo que "programamos" es hardware, componentes físicos, que tienen existencia real.
 
+  Con IceStudio podemos crear un **bloque** que tenga las propiedades que resuelven nuestro problema, a saber:
+  - Tres entradas: A, B y C.
+  - Una salida, a la que llamaremos M.
+  - Un elemento, que contendrá la programación en Verilog.
+
+Podemos ver cómo queda en esta imagen:
+
   ![](IS3.jpg)
 
+Podemos abrir el bloque en IceStudio, y nos quedará con la siguiente "pinta":
+
+  ![](IS4.jpg)
 
   [Subir](#top)
