@@ -217,13 +217,13 @@ En este apartado vamos a utilizar dos herramientas:
   Montaje en el simulador de circuitos digitales
 [![](10asim.png)](https://www.tinkercad.com/things/efJZV0doPbd)
 
-[Descárgalo y simúlalo en tu PC](\PCCV097Cualesquiera.txt)
+[Descárgalo y simúlalo en tu PC](PCCV097Cualesquiera.txt)
 
 
   Montaje en TinkerCAD.
   ![](10atink.png)
 
-[  https://www.tinkercad.com/things/efJZV0doPbd](https://www.tinkercad.com/things/efJZV0doPbd)
+[https://www.tinkercad.com/things/efJZV0doPbd](https://www.tinkercad.com/things/efJZV0doPbd)
 
 ---
 
