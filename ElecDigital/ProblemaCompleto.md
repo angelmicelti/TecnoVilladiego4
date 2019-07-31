@@ -41,6 +41,8 @@ En cambio, el estado de la máquina (que podemos llamar, por ejemplo, M para abr
 
 [Subir](#top)
 
+---
+
 <a name="Punto2"></a>
 ## 2. Tabla de verdad del sistema
 
@@ -64,6 +66,8 @@ Dec  | A  | B  | C  | M
 
 
 [Subir](#top)
+
+---
 
 <a name="Punto3"></a>
 ## 3. Funciones lógicas con minterms y maxterms
@@ -96,6 +100,8 @@ Observa que los índices de los maxitérminos son los complementarios de los min
 
 [Subir](#top)
 
+---
+
 <a name="Punto4"></a>
 ## 4. Implementación de la función sin simplificar SOP.
 
@@ -106,6 +112,8 @@ En este gráfico lo hemos implementado con la herramienta "túnel":
 
 ![](SOP2.png)
 [Subir](#top)
+
+---
 
 <a name="Punto5"></a>
 
@@ -122,6 +130,8 @@ En este gráfico lo hemos implementado con la herramienta "túnel":
 
 [Subir](#top)
 
+...
+
 <a name="Punto6"></a>
 ## 6. Simplificación por el método de los diagramas de Karnaugh
 
@@ -137,35 +147,64 @@ Y, a partir de esto, podemos escribir que:
 
 `F = A·B +C
 `
+que es la expresión simplificada de nuestra función.
+
 
 [Subir](#top)
 
+---
+
 <a name="Punto7"></a>
 ## 7. Implementación con puertas lógicas cualesquiera
+
+![](PC32.png)
+
+En el siguiente montaje hemos utilizado la herramienta "túnel" de Digital para reproducir el mismo circuito.
+
 ![](PuertasCualesquiera.png)
 
 
 [Subir](#top)
 
+...
+
 <a name="Punto8"></a>
 ## 8. Implementación sólo con puertas NAND
+
+En el siguiente circuito podemos ver la implementación de la función lógica sólo con puertas NAND.
+
+
+![](SoloNAND2.png)
+
+En el siguiente montaje hemos utilizado la herramienta "túnel" de Digital para reproducir el mismo circuito.
+
 ![](SoloNAND.png)
-
-
 
 
 [Subir](#top)
 
+---
+
 <a name="Punto9"></a>
 ## 9. Implementación sólo con puertas NOR
+
+En el siguiente circuito podemos ver la implementación de la función lógica sólo con puertas NOR.
+
+![](PC52.png)
+
+
+En el siguiente montaje hemos utilizado la herramienta "túnel" de Digital para reproducir el mismo circuito.
+
+
+
 ![](SoloNOR.png)
 
 
 [Subir](#top)
 
+---
+
 <a name="Punto10"></a>
-
-
 ## 10. Montaje práctico
 
 En este apartado vamos a utilizar dos herramientas:
@@ -209,9 +248,9 @@ Descárgalo y simúlalo en tu PC
 
 [Subir](#top)
 
+---
+
 <a name="Punto11"></a>
-
-
 ## 11. Trabajando en FPGA
 
 <a name="Punto11a"></a>
