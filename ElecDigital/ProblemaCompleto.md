@@ -163,9 +163,14 @@ En este apartado vamos a utilizar dos herramientas:
 Descárgalo y simúlalo en tu PC
 
 
+---
+
+
   Montaje en TinkerCAD.
   ![](10atink.png)
 
+
+---
 
 <a name="Punto10b"></a>
   ### b. Sólo con puertas NAND
@@ -175,8 +180,12 @@ Descárgalo y simúlalo en tu PC
 
   Descárgalo y simúlalo en tu PC
 
+---
+
   Montaje en TinkerCAD.
   ![](10btink.png)
+
+---
 
 <a name="Punto10c"></a>
   ### c. Sólo con puertas NOR
@@ -186,10 +195,15 @@ Descárgalo y simúlalo en tu PC
 
   Descárgalo y simúlalo en tu PC
 
+---
+
   Montaje en TinkerCAD.
   ![](10ctink.png)
 
 [Subir](#top)
+
+---
+
 
 <a name="Punto11"></a>
 
@@ -201,10 +215,16 @@ Descárgalo y simúlalo en tu PC
 
   Una vez dominadas las expresiones vistas anteriormente, es fácil implementar en IceStudio el circuito correspondiente a nuestro problema.
 
+---
+
+
 <a name="Punto11b"></a>
   ### b. Implementación del problema con una tabla
 
   Podemos implementar nuestro problema también con una tabla de verdad en IceStudio.
+
+---
+
 
 <a name="Punto11c"></a>
   ### c. Implementación del problema en Verilog
