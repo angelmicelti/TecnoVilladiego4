@@ -223,6 +223,8 @@ Descárgalo y simúlalo en tu PC
   Montaje en TinkerCAD.
   ![](10atink.png)
 
+[  https://www.tinkercad.com/things/efJZV0doPbd](https://www.tinkercad.com/things/efJZV0doPbd)
+
 
 <a name="Punto10b"></a>
   ### b. Sólo con puertas NAND
@@ -235,6 +237,10 @@ Descárgalo y simúlalo en tu PC
   Montaje en TinkerCAD.
   ![](10btink.png)
 
+  [https://www.tinkercad.com/things/kFgOo3q2Dbr](https://www.tinkercad.com/things/kFgOo3q2Dbr)
+
+
+
 <a name="Punto10c"></a>
   ### c. Sólo con puertas NOR
 
@@ -245,6 +251,8 @@ Descárgalo y simúlalo en tu PC
 
   Montaje en TinkerCAD.
   ![](10ctink.png)
+
+[  https://www.tinkercad.com/things/0rTmQ8AvSLg](https://www.tinkercad.com/things/0rTmQ8AvSLg)
 
 [Subir](#top)
 
