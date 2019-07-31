@@ -99,8 +99,10 @@ Observa que los índices de los maxitérminos son los complementarios de los min
 <a name="Punto4"></a>
 ## 4. Implementación de la función sin simplificar SOP.
 
-A continuación tenemos la implementación en Digital de la expresión SOP.
+A continuación tenemos la implementación en [Digital](https://github.com/hneemann/Digital) de la expresión SOP.
+![](SOP3.png)
 
+En este gráfico lo hemos implementado con la herramienta "túnel":
 
 ![](SOP2.png)
 [Subir](#top)
@@ -110,7 +112,11 @@ A continuación tenemos la implementación en Digital de la expresión SOP.
 ## 5. Implementación de la función sin simplificar POS
 
 
-A continuación tenemos la implementación en Digital de la expresión POS.
+A continuación tenemos la implementación en [Digital](https://github.com/hneemann/Digital) de la expresión POS.
+
+![](SOP3.png)
+
+En este gráfico lo hemos implementado con la herramienta "túnel":
 
 ![](POS2.png)
 
