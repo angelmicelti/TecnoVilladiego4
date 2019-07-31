@@ -1,9 +1,10 @@
 # Resolución de un problema completo de Electrónica Digital
 
+## ENUNCIADO DEL PROBLEMA
 **Cierta máquina disponible en el aula de Tecnología tiene tres interruptores (A, B y C) para su puesta en marcha, la cual se producirá al cumplirse estas condiciones: A y B tienen que activarse conjuntamente para que la máquina funcione. Basta que el interruptor C esté activado para que la máquina también funcione, independientemente del estado de A y B.**
 
 <a name="top"></a>
-PASOS QUE VAMOS A SEGUIR **SIEMPRE**:
+## PASOS QUE VAMOS A SEGUIR **SIEMPRE**:
 1. [Identificación de las variables y la(s) función(es) lógica(s)](#Punto1)
 2. [Tabla de verdad del sistema](#Punto2)
 3. [Función lógica con minitérminos y maxitérminos](#Punto3)
@@ -78,12 +79,12 @@ Para nuestra función, quedará:
 
 O bien: M = Σ(1,3,5,6,7)
 
----
-
 
 **Segunda forma canónica o Expresión POS (Product Of Sums)**
 
 Esta expresión se compone de los llamados [maxitérminos](https://angelmicelti.github.io/4ESO/EDI/apndice_i_primera_y_segunda_formas_cannicas.html#maxterm). Se obtiene como se explica en [este enlace](https://angelmicelti.github.io/4ESO/EDI/apndice_i_primera_y_segunda_formas_cannicas.html#SFC).
+
+---
 
 
 ![Expresión de la función como suma de productos (SOP)](POS1.jpg)
@@ -163,14 +164,9 @@ En este apartado vamos a utilizar dos herramientas:
 Descárgalo y simúlalo en tu PC
 
 
----
-
-
   Montaje en TinkerCAD.
   ![](10atink.png)
 
-
----
 
 <a name="Punto10b"></a>
   ### b. Sólo con puertas NAND
@@ -180,12 +176,8 @@ Descárgalo y simúlalo en tu PC
 
   Descárgalo y simúlalo en tu PC
 
----
-
   Montaje en TinkerCAD.
   ![](10btink.png)
-
----
 
 <a name="Punto10c"></a>
   ### c. Sólo con puertas NOR
@@ -195,15 +187,10 @@ Descárgalo y simúlalo en tu PC
 
   Descárgalo y simúlalo en tu PC
 
----
-
   Montaje en TinkerCAD.
   ![](10ctink.png)
 
 [Subir](#top)
-
----
-
 
 <a name="Punto11"></a>
 
@@ -215,16 +202,10 @@ Descárgalo y simúlalo en tu PC
 
   Una vez dominadas las expresiones vistas anteriormente, es fácil implementar en IceStudio el circuito correspondiente a nuestro problema.
 
----
-
-
 <a name="Punto11b"></a>
   ### b. Implementación del problema con una tabla
 
   Podemos implementar nuestro problema también con una tabla de verdad en IceStudio.
-
----
-
 
 <a name="Punto11c"></a>
   ### c. Implementación del problema en Verilog
