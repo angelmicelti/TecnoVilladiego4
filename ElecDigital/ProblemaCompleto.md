@@ -124,6 +124,13 @@ En este gráfico lo hemos implementado con la herramienta "túnel":
 
 <a name="Punto6"></a>
 ## 6. Simplificación por el método de los diagramas de Karnaugh
+
+Cuando tenemos una función booleana dada por su tabla de verdad, conviene **simplifcarla** para utilizar el  menor número de puertas lógicas posibles. Ello abaratará los costes de diseño y de fabricación.
+
+En [este enlace](https://angelmicelti.github.io/4ESO/EDI/apndice_ii_mtodo_de_karnaugh_de_simplificacin_de_funciones_lgicas.html) podemos ver cómo se realiza la simplificación utilizando el método de los diagramas de Karnaugh.
+
+Aplicando este método para nuestro problema, encontramos lo siguiente:
+
 ![](Karnaugh01.png)
 
 
