@@ -258,16 +258,25 @@ Descárgalo y simúlalo en tu PC
 
   Una vez dominadas las expresiones vistas anteriormente, es fácil implementar en IceStudio el circuito correspondiente a nuestro problema.
 
+  ![](IS1.jpg)
+
+
 <a name="Punto11b"></a>
   ### b. Implementación del problema con una tabla
 
   Podemos implementar nuestro problema también con una tabla de verdad en IceStudio.
+
+  ![](IS2.jpg)
+
 
 <a name="Punto11c"></a>
   ### c. Implementación del problema en Verilog
 
   Como remate de nuestras técnicas de aprendizaje, podemos utilizar Verilog.
 
-  Verilog es un lenguaje de descripción de hardware, es decir, lo que "programamos" es hardware, componentes físicos.
+  Verilog es un lenguaje de descripción de hardware, es decir, lo que "programamos" es hardware, componentes físicos, que tienen existencia real.
+
+  ![](IS3.jpg)
+
 
   [Subir](#top)
