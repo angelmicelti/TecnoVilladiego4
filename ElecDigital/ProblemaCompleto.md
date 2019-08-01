@@ -150,6 +150,7 @@ Y, a partir de esto, podemos escribir que:
 
 `F = A·B +C
 `
+
 que es la expresión simplificada de nuestra función.
 
 
