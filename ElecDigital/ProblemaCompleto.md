@@ -95,7 +95,7 @@ Esta expresión se compone de los llamados [maxitérminos](https://angelmicelti.
 
 O bien: M = Π(0,2,4)
 
-Observa que los índices de los maxitérminos son los complementarios de los minterms (apartado anterior).
+Observa que _**los índices de los maxitérminos son los complementarios de los minterms**_ (apartado anterior).
 
 
 [Subir](#top)
@@ -105,10 +105,13 @@ Observa que los índices de los maxitérminos son los complementarios de los min
 <a name="Punto4"></a>
 ## 4. Implementación de la función sin simplificar SOP.
 
+**Implementar** una función lógica es el procedimiento mediante el cual transformamos dicha función en una combinación de puertas lógicas que tienen el mismo comportamiento que la función.
+
+
 A continuación tenemos la implementación en [Digital](https://github.com/hneemann/Digital) de la expresión SOP.
 ![](SOP3.png)
 
-En este gráfico lo hemos implementado con la herramienta "túnel":
+En este gráfico lo hemos implementado con la herramienta "túnel" de Digital:
 
 ![](SOP2.png)
 [Subir](#top)
