@@ -148,8 +148,8 @@ Aplicando este método para nuestro problema, encontramos lo siguiente:
 
 Y, a partir de esto, podemos escribir que:
 
-`F = A·B +C
-`
+<h3 align="center">`F = A·B +C
+`</h3>
 
 que es la expresión simplificada de nuestra función.
 
