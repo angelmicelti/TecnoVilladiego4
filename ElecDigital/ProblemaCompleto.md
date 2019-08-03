@@ -306,12 +306,13 @@ Podemos abrir el bloque en IceStudio, y nos quedará con la siguiente "pinta":
 
   ![](IS4.jpg)
 
-  Sólo faltaría añadir las entradas A, B y C, así como la salida, M. Posteriormente, compilamos y subimos el circuito a la placa Alhambra (IceZum o II, da igual), e inmediatamente lo veremos funcionando. ¡Es genial!
+  Sólo faltaría añadir las **entradas A, B** y **C**, así como la **salida, M**. Posteriormente, compilamos y subimos el circuito a la placa Alhambra ([IceZum](https://github.com/fpgawars/icezum/wiki) o [II](https://github.com/FPGAwars/Alhambra-II-FPGA/wiki), da igual), e inmediatamente lo veremos funcionando. ¡Es genial!
 
   ![](IS5.jpg)
 
-  Fíjate que, aquí, hemos conectado las entradas A, B y C a los puertos D0, D1 y D2 (respectivamente).
+  Fíjate que, aquí, hemos conectado las entradas A, B y C a los puertos D0, D1 y D2 (respectivamente) de la IceZum Alhambra.
   Así mismo, la salida la hemos conectado al LED 0 de la placa, para visualizar su accionamiento.
   Igualmente se podría conectar otro a actuador, como un servo, para dar mayor realismo.
+  ¡Las posibilidades son infinitas!
 
   [Subir](#top)
