@@ -312,5 +312,6 @@ Podemos abrir el bloque en IceStudio, y nos quedará con la siguiente "pinta":
 
   Fíjate que, aquí, hemos conectado las entradas A, B y C a los puertos D0, D1 y D2 (respectivamente).
   Así mismo, la salida la hemos conectado al LED 0 de la placa, para visualizar su accionamiento.
+  Igualmente se podría conectar otro a actuador, como un servo, para dar mayor realismo.
 
   [Subir](#top)
