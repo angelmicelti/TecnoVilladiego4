@@ -95,7 +95,7 @@ Esta expresión se compone de los llamados [maxitérminos](https://angelmicelti.
 
 O bien: M = Π(0,2,4)
 
-Observa que _**los índices de los maxitérminos son los complementarios de los minterms**_ (apartado anterior).
+Observa que _**los índices de los maxitérminos son los complementarios de los minterms**_ (apartado anterior). Esto sucede siempre, así que te puede servir para comprobar que lo estás haciendo todo bien.
 
 
 [Subir](#top)
