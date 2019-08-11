@@ -162,11 +162,9 @@ que es la expresión simplificada de nuestra función.
 ## 7. Implementación con puertas lógicas cualesquiera.
 
 
-**Implementar** un circuito lógico consiste en usar la combinación de puertas lógicas que realizan las mismas operación lógica que
-la ficción de la que se trate.
-En el caso que estamos trabajando, esto es muy sencillo, ya que solo necesitamos
+En nuestro caso, para implementar la función simplificada sólo necesitamos
 **una puerta AND** y **una puerta OR**.
-Nos queda tal y como venís a continuación:
+Nos queda tal y como vemos a continuación:
 
 ![](PC32.png)
 
