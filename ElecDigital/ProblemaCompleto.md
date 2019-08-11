@@ -159,11 +159,18 @@ que es la expresión simplificada de nuestra función.
 ---
 
 <a name="Punto7"></a>
-## 7. Implementación con puertas lógicas cualesquiera
+## 7. Implementación con puertas lógicas cualesquiera.
+
+
+**Implementar** un circuito lógico consiste en usar la combinación de puertas lógicas que realizan las mismas operación lógica que
+la ficción de la que se trate.
+En el caso que estamos trabajando, esto es muy sencillo, ya que solo necesitamos
+**una puerta AND** y **una puerta OR**.
+Nos queda tal y como venís a continuación:
 
 ![](PC32.png)
 
-En el siguiente montaje hemos utilizado la herramienta "túnel" de Digital para reproducir el mismo circuito.
+En este otro montaje hemos utilizado la herramienta "túnel" de Digital para reproducir el mismo circuito.
 
 ![](PuertasCualesquiera.png)
 
@@ -174,6 +181,8 @@ En el siguiente montaje hemos utilizado la herramienta "túnel" de Digital para 
 
 <a name="Punto8"></a>
 ## 8. Implementación sólo con puertas NAND
+
+
 
 En el siguiente circuito podemos ver la implementación de la función lógica sólo con puertas NAND.
 
@@ -191,6 +200,8 @@ En el siguiente montaje hemos utilizado la herramienta "túnel" de Digital para 
 
 <a name="Punto9"></a>
 ## 9. Implementación sólo con puertas NOR
+
+
 
 En el siguiente circuito podemos ver la implementación de la función lógica sólo con puertas NOR.
 
