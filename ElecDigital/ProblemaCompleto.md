@@ -53,9 +53,9 @@ Para obtener la tabla de verdad, tenemos que tener en cuenta que:
 Una vez dibujada la tabla, la rellenamos con las combinaciones binarias de A, B y C, dispuestas en orden creciente.
 A mí me gusta añadir una columna a la izquierda, indicando el equivalente decimal de la combinación binaria de A, B y C. Quedaría así:
 
-Dec  | A  | B  | C  | M
---|---|---|---|--
-0 | 0  | 0  | 0  | 0
+Dec| A  | B  | C  | M
+ --|--- |--- |--- |--
+0  | 0  | 0  | 0  | 0
 1  | 0  | 0  | 0  | 1
 2  | 0  | 0  | 1  | 0
 3  | 0  | 0  | 1  | 1
@@ -72,28 +72,35 @@ Dec  | A  | B  | C  | M
 <a name="Punto3"></a>
 ## 3. Funciones lógicas con minterms y maxterms
 
-**Primera forma canónica o Expresión SOP (Sum Of Products)**
+_**Primera forma canónica o Expresión SOP (Sum Of Products)**_
+
+
 Esta expresión se compone de los llamados [minitérminos](https://angelmicelti.github.io/4ESO/EDI/apndice_i_primera_y_segunda_formas_cannicas.html#minterm). Se obtiene como se explica en [este enlace](https://angelmicelti.github.io/4ESO/EDI/apndice_i_primera_y_segunda_formas_cannicas.html#PFC).
 
 
-Para nuestra función, quedará:
+Para nuestra función, esta primera forma canónica quedará así:
 
 
 ![Expresión de la función como suma de productos (SOP)](SOP1.jpg)
 
-O bien: M = Σ(1,3,5,6,7)
+que también puede escribirse, más abreviada, así:
 
-
-**Segunda forma canónica o Expresión POS (Product Of Sums)**
-
-Esta expresión se compone de los llamados [maxitérminos](https://angelmicelti.github.io/4ESO/EDI/apndice_i_primera_y_segunda_formas_cannicas.html#maxterm). Se obtiene como se explica en [este enlace](https://angelmicelti.github.io/4ESO/EDI/apndice_i_primera_y_segunda_formas_cannicas.html#SFC).
+<h4 align="center">M = Σ(1,3,5,6,7)</h4>
 
 ---
 
+_**Segunda forma canónica o Expresión POS (Product Of Sums)**_
 
-![Expresión de la función como suma de productos (SOP)](POS1.jpg)
+Esta expresión se compone de los llamados [maxitérminos](https://angelmicelti.github.io/4ESO/EDI/apndice_i_primera_y_segunda_formas_cannicas.html#maxterm). Se obtiene como se explica en [este enlace](https://angelmicelti.github.io/4ESO/EDI/apndice_i_primera_y_segunda_formas_cannicas.html#SFC).
 
-O bien: M = Π(0,2,4)
+Para nuestra función, esta segunda forma canónica quedará así:
+
+
+![Expresión de la función como producto de sumas (POS)](POS1.jpg)
+
+que también puede escribirse más abreviada así:
+
+<h4 align="center">M = Π(0,2,4)</h4>
 
 Observa que _**los índices de los maxitérminos son los complementarios de los minterms**_ (apartado anterior). Esto sucede siempre, así que te puede servir para comprobar que lo estás haciendo todo bien.
 
@@ -120,7 +127,7 @@ En este gráfico lo hemos implementado con la herramienta "túnel" de Digital:
 
 <a name="Punto5"></a>
 
-## 5. Implementación de la función sin simplificar POS
+## 5. Implementación de la función sin simplificar POS.
 
 
 A continuación tenemos la implementación en [Digital](https://github.com/hneemann/Digital) de la expresión POS.
