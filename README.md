@@ -11,9 +11,17 @@ de Peñaflor, Sevilla
 
 ## [Bloque 1: Tecnologías de la Información y la Comunicación](Telecos/readme.md)
 
+<h3 align="center">
+
+[Do It Yourself (DIY)](DIY/readme.md)
+
+</h3>
+
+---
 
 ## [Bloque 2: Instalaciones en Viviendas](Instalaciones/readme.md)
 
+---
 
 ## Bloque 3: Electrónica
 
@@ -25,6 +33,8 @@ de Peñaflor, Sevilla
 
 </h3>
 
+---
+
 ## Bloque 4: Control y robótica
 
 <h3 align="center">
@@ -35,12 +45,20 @@ de Peñaflor, Sevilla
 
 </h3>
 
+---
+
 ## Bloque 5: Neumática e Hidráulica
+
+---
 
 ## [Bloque 6: Tecnología y Sociedad](TecSociedad/readme.md)
 
-***
+---
 
-## [PROYECTOS](Proyectos/proyectos.md)
+<h2 align="center">
 
-***
+ [PROYECTOS](Proyectos/proyectos.md)
+
+</h2>
+
+---
