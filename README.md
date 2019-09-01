@@ -44,5 +44,3 @@ de Peñaflor, Sevilla
 ## [PROYECTOS](Proyectos/proyectos.md)
 
 ***
-
-[MATERIALES PARA RECUPERAR LA ASIGNATURA DE TECNOLOGÍA 4 (septiembre de 2018)](septiembre2018.md)
