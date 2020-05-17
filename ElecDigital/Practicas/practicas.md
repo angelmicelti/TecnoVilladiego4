@@ -23,15 +23,14 @@ En esta segunda tanda de prácticas introducimos el uso de TinkerCAD a modo de s
 - [Práctica EDN2: Implementación usando sólo puertas NAND](https://docs.google.com/document/d/1wp0lOkRqFxteHui-TUW9zNRic3pNw9Lpjusm5yMpwYw/edit?usp=sharing)
 - [Práctica EDN3: Implementación usando sólo puertas NOR](https://docs.google.com/document/d/1Gor21Bwkm1VdCeqKtPy6x26LibsbQd-CsmzdF0UDmgs/edit?usp=sharing)
 - [Práctica EDN4: diseño jerárquico](https://docs.google.com/document/d/1rNWAa8nmBC_FP3tSqLvQZZbhWdToVCjy4gmE5koF57s/edit?usp=sharing)
-- [Práctica EDN5: cocinando circuitos en una FPGA]()
 
 ---
 
 ## PRÁCTICAS NIVEL "ENTERAÍLLO"
-- Práctica EDE1: Montaje con el CI 7404 (seis puertas NOT)
-- Práctica EDE2: Montaje con el CI 7432 (cuatro puertas OR)
-- Práctica EDE3: Montaje con el CI 7408 (cuatro puertas AND)
-- Práctica EDE4: ¿Cómo hago un producto triple con un C.I. con puertas de dos entradas?
-- Práctica EDE5: Encadenando circuitos integrados: montaje de la función lógica
-- Práctica EDE6: montajes con los circuitos 7400 y 7402
-- Práctica EDE7: cocinando circuitos en una FPGA
+- [Práctica EDE1: Montaje con el CI 7404 (seis puertas NOT)](https://docs.google.com/document/d/1b04vEMxRm1rEgOKExYpJKljOWXm25HrGtVi_b0v29NA/edit?usp=sharing)
+- [Práctica EDE2: Montaje con el CI 7432 (cuatro puertas OR)](https://docs.google.com/document/d/1-bqMl0JUVwx3ghfp4F5d_BMzcj7JYDjWFWAcRFJv_VU/edit?usp=sharing)
+- [Práctica EDE3: Montaje con el CI 7408 (cuatro puertas AND)](https://docs.google.com/document/d/1Wf2M-g856S0VqZ-D0C4i7EqOfq4I2KgHtzSvCfaYvMk/edit?usp=sharing)
+- [Práctica EDE4: ¿Cómo hago un producto triple con un C.I. con puertas de dos entradas?](https://docs.google.com/document/d/1ao33jIwb_faE9Yd3v6Vti2owKyNpyzgepFPd1kpwP9g/edit?usp=sharing)
+- [Práctica EDE5: Encadenando circuitos integrados: montaje de la función lógica](https://docs.google.com/document/d/1gKa4T2fFGErSOhpl_E8x34gzutdzheSwnMskrflt8Fo/edit?usp=sharing)
+- [Práctica EDE6: montajes con los circuitos 7400 y 7402](https://docs.google.com/document/d/1WwYWsK6oJwx2N0A4vPz3M-rFbft4gMyUPVGETQnBbcM/edit?usp=sharing)
+- [Práctica EDE7: cocinando circuitos en una FPGA](https://docs.google.com/document/d/1qq0f5nsUdE1yMsidzCuQtPbROwR6EshtIsp-VMoSnQc/edit?usp=sharing)
