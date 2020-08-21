@@ -331,4 +331,6 @@ Podemos abrir el bloque en IceStudio, y nos quedará con la siguiente "pinta":
   Igualmente se podría conectar otro a actuador, como un servo, para dar mayor realismo.
   ¡Las posibilidades son infinitas!
 
-  [Subir](#top)
+  [Subir](#top). 
+
+Puedes ver todo esto resumido en [**esta presentación**](https://view.genial.ly/5e8c5bc62f4c5b0e1701c848/presentation-resolver-problemas-de-electronica-digital)
