@@ -34,7 +34,7 @@ de Peñaflor, Sevilla
 
 ---
 
-# Bloque 4: Control y robótica
+# [Bloque 4: Control y robótica](CYR/readme.md)
 
 <h3 align="center">
 
@@ -46,7 +46,7 @@ de Peñaflor, Sevilla
 
 ---
 
-# Bloque 5: Neumática e Hidráulica
+# [Bloque 5: Neumática e Hidráulica](HYN/readme.md)
 
 ---
 
