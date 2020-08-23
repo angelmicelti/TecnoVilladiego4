@@ -1,15 +1,14 @@
-<h1 align="center">TecnoVilladiego4</h1>
+<h1 align="center"> TecnoVilladiego4 </h1>
 
 <h4 align="center"> Repositorio para el alumnado de Tecnología de 4º de E.S.O.
 del IES Virgen de Villadiego,
 
 de Peñaflor, Sevilla
 
-![](imágenes/logo_fondo_transparente200x300.png)
+![logo](imágenes/logo_fondo_transparente200x300.png)
 </h4>
 
-
-## [Bloque 1: Tecnologías de la Información y la Comunicación](Telecos/readme.md)
+# [Bloque 1: Tecnologías de la Información y la Comunicación](Telecos/readme.md)
 
 <h3 align="center">
 
@@ -19,11 +18,11 @@ de Peñaflor, Sevilla
 
 ---
 
-## [Bloque 2: Instalaciones en Viviendas](Instalaciones/readme.md)
+# [Bloque 2: Instalaciones en Viviendas](Instalaciones/readme.md)
 
 ---
 
-## Bloque 3: Electrónica
+# Bloque 3: Electrónica
 
 <h3 align="center">
 
@@ -35,7 +34,7 @@ de Peñaflor, Sevilla
 
 ---
 
-## Bloque 4: Control y robótica
+# Bloque 4: Control y robótica
 
 <h3 align="center">
 
@@ -47,11 +46,11 @@ de Peñaflor, Sevilla
 
 ---
 
-## Bloque 5: Neumática e Hidráulica
+# Bloque 5: Neumática e Hidráulica
 
 ---
 
-## [Bloque 6: Tecnología y Sociedad](TecSociedad/readme.md)
+# [Bloque 6: Tecnología y Sociedad](TecSociedad/readme.md)
 
 ---
 
