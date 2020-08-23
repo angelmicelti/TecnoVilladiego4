@@ -4,7 +4,7 @@
 - [**Apuntes del tema**](https://angelmicelti.github.io/4ESO/EAN/index.html)
 
 
-- [**Ejemplos de circuitos analógicos** (complementan a los apuntes)](CircuitosApuntes/circuitos.md)
+- [**Ejemplos de circuitos analógicos** (complementan a los apuntes)](CircuitosApuntes/readme.md)
 - Presentaciones de clase:
   - Presentación: [Todo sobre resistencias](PDF/TodoSobreResistencias.pdf)
   - Presentación: [Todo sobre diodos](PDF/TodoSobreDiodos.pdf)

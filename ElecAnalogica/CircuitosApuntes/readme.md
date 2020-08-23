@@ -1,4 +1,4 @@
-# ++EJEMPLOS DE CIRCUITOS ANALÓGICOS++
+# EJEMPLOS DE CIRCUITOS ANALÓGICOS
 
 Estos circuitos están simulados en Crocodile Technology. Puedes descargarlos y experimentar con ellos tanto como quieras. Sube y baja valores, cambia cables de sitio y, sobre todo, diviértete.
 Puedes **descargar Crocodile Technology** desde [este enlace](https://github.com/angelmicelti/TecnoVilladiego4/raw/master/ElecAnalogica/software/Cocodrile%20Technology%206.07%5BPortable%5D.zip).
