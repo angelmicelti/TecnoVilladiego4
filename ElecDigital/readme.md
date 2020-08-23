@@ -1,5 +1,7 @@
 # ELECTRÓNICA DIGITAL
 
+[Apuntes del tema](https://angelmicelti.github.io/4ESO/EDI/index.html)  
+
 
 - [Lista de vídeos para _flippear_ la clase](videosed/videosed.md)
 - [Prácticas de electrónica digital](Practicas/practicas.md)
