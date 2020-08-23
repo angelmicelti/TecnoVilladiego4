@@ -5,7 +5,7 @@ del IES Virgen de Villadiego,
 
 de Peñaflor, Sevilla
 
-![logo](imágenes/logo_fondo_transparente200x300.png)
+![logo](img/logo_fondo_transparente200x300.png)
 </h4>
 
 # [Bloque 1: Tecnologías de la Información y la Comunicación](Telecos/readme.md)
