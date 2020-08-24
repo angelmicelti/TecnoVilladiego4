@@ -2,7 +2,7 @@
 
 ## Autodesk TinkerCAD
 
-![TinkerCAD](https://images.app.goo.gl/y1Yy9LT7XusCs3ym8xiDlawdIJFkOWf7t0EOjTo)
+![TinkerCAD](https://i.pinimg.com/originals/79/b6/dc/79b6dc89423be1012859ce3231403a21.png)
 
 TinkerCAD es un estupendo simulador de circuitos electrónicos.
 Pero, además, nos permite crear figuras en 3D de una forma muy sencilla, y tenerlas disponibles allá donde tengamos conexión a Internet.
