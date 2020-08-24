@@ -1,2 +1,2 @@
 # **DISPLAY DE 7 segmentos**
-![](display.png)
+![Display de 7 segmentos](display.png)
