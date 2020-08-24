@@ -1,6 +1,6 @@
 # Aplicaciones para aprender electrónica analógica
 
-EVERYCIRCUIT  | ELECTRODROID
+**EVERYCIRCUIT**  | **ELECTRODROID**
 --|--
 ![EveryCircuit](everycircuit.png)  | ![ElectroDroid](electrodroid.png)
   ANDROID| ANDROID
