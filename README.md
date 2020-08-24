@@ -56,7 +56,7 @@ de Peñaflor, Sevilla
 
 <h2 align="center">
 
- [PROYECTOS](Proyectos/readme.md)
+ [PROYECTOS](PROY/readme.md)
 
 </h2>
 
