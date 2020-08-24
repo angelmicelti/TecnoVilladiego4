@@ -7,7 +7,7 @@
   - Presentación: [Todo sobre resistencias](PDF/TodoSobreResistencias.pdf)
   - Presentación: [Todo sobre diodos](PDF/TodoSobreDiodos.pdf)
   - Presentación: [Todo sobre condensadores](PDF/TodoSobreCondensador.pdf)
-  - Presentación: [Todo sobre transistores](PDF/TodoSobreTransistores.pdf)
+  - Presentación: [Todo sobre transistores](PDF/TodoSobreTransistor.pdf)
 
 - Boletines de ejercicios
   - Boletín 1: [resistencias](PDF/bol1_resistencias.pdf)
