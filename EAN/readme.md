@@ -1,8 +1,6 @@
 # ELECTRÓNICA ANALÓGICA
 
-
 - [**Apuntes del tema**](https://angelmicelti.github.io/4ESO/EAN/index.html)
-
 
 - [**Ejemplos de circuitos analógicos** (complementan a los apuntes)](CircuitosApuntes/readme.md)
 - Presentaciones de clase:
@@ -21,11 +19,9 @@
   - Boletín 7: transistores (I)
   - Boletín 8: transistores (II)
 
-
-- [Apps de electrónica analógica para tu móvil](apps/readme.md)
-
-
+- [Apps de electrónica analógica para tu móvil](Apps/readme.md)
 - [Prácticas de electrónica analógica](Practicas/readme.md)
-- [Flippeando la Electrónica Analógica](videosea/readme.md)
+- [Flippeando la Electrónica Analógica](FlippEA/readme.md)  
+
 
 [Volver a inicio](https://github.com/angelmicelti/TecnoVilladiego4)
