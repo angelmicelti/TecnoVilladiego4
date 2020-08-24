@@ -18,7 +18,7 @@ de Peñaflor, Sevilla
 
 ---
 
-# [Bloque 2: Instalaciones en Viviendas](Instalaciones/readme.md)
+# [Bloque 2: Instalaciones en Viviendas](INS/readme.md)
 
 ---
 
@@ -26,9 +26,9 @@ de Peñaflor, Sevilla
 
 <h3 align="center">
 
-[Electrónica analógica](ElecAnalogica/readme.md)
+[Electrónica analógica](EAN/readme.md)
 
-[Electrónica digital](ElecDigital/readme.md)
+[Electrónica digital](EDI/readme.md)
 
 </h3>
 
@@ -38,9 +38,9 @@ de Peñaflor, Sevilla
 
 <h3 align="center">
 
-[Arduino](Arduino/readme.md)
+[Arduino](ARD/readme.md)
 
-[TrainerBot](TrainerBot/readme.md)
+[TrainerBot](ARD/TrainerBot/readme.md)
 
 </h3>
 
@@ -50,7 +50,7 @@ de Peñaflor, Sevilla
 
 ---
 
-# [Bloque 6: Tecnología y Sociedad](TecSociedad/readme.md)
+# [Bloque 6: Tecnología y Sociedad](TYS/readme.md)
 
 ---
 

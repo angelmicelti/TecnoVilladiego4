@@ -25,7 +25,7 @@
 - [Apps de electrónica analógica para tu móvil](apps/readme.md)
 
 
-- [Prácticas de electrónica analógica](Practicas/practicas.md)
-- [Flippeando la Electrónica Analógica](videosea/videosea.md)
+- [Prácticas de electrónica analógica](Practicas/readme.md)
+- [Flippeando la Electrónica Analógica](videosea/readme.md)
 
 [Volver a inicio](https://github.com/angelmicelti/TecnoVilladiego4)
