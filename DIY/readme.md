@@ -2,7 +2,7 @@
 
 ## Autodesk TinkerCAD
 
-![TinkerCAD](https://www.tinkercad.com/img/minecraft-tinkercad-hall-dome.png)
+![TinkerCAD](https://images.app.goo.gl/y1Yy9LT7XusCs3ym8xiDlawdIJFkOWf7t0EOjTo)
 
 TinkerCAD es un estupendo simulador de circuitos electrónicos.
 Pero, además, nos permite crear figuras en 3D de una forma muy sencilla, y tenerlas disponibles allá donde tengamos conexión a Internet.
