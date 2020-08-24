@@ -2,8 +2,8 @@
 
 EVERYCIRCUIT  | ELECTRODROID
 --|--
-![](everycircuit.png)  | ![](electrodroid.png)
+![EveryCircuit](everycircuit.png)  | ![ElectroDroid](electrodroid.png)
   ANDROID| ANDROID
-![](everycircuit_android.png)  |  ![](electrodroid_android.png)
+![EveryCircuit](everycircuit_android.png)  |  ![ElectroDroid](electrodroid_android.png)
   iOS| iOS
-![](everycircuit_ios.png) |  ![](electrodroid_ios.png)
+![EveryCircuit](everycircuit_ios.png) |  ![ElectroDroid](electrodroid_ios.png)
