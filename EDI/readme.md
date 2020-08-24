@@ -8,7 +8,7 @@
 - [Problemas de Electrónica Digital para clase](Boletines/readme.md)
 - [FPGAndo en 4º de E.S.O.](https://github.com/angelmicelti/FPGAndo-por-la-E.S.O.)
 - Supuestos prácticos
-- [Resolución de un problema completo de E.D.](/ProbCompleto/readme.md)
+- [Resolución de un problema completo de E.D.](ProbCompleto/readme.md)
 - [Apps para hacer electrónica digital](/Apps/readme.md)
 
 
