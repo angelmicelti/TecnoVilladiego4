@@ -10,7 +10,7 @@
 - Supuestos prácticos
 - [Resolución de un problema completo de E.D.](ProbCompleto/readme.md)
 - [Apps para hacer electrónica digital](Apps/readme.md)
-- [Sostware](software/readme.md)
+- [Software](software/readme.md)
 
 
 [Volver a inicio](https://github.com/angelmicelti/TecnoVilladiego4)
