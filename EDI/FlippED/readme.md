@@ -2,6 +2,7 @@
 [Tablero de Pinterest con vídeos para _flippear_](https://www.pinterest.es/angelmicelti/electr%C3%B3nica-digital-recursos/)
 
 ## Ejercicios para las sesiones de flipped learning
+
 - [Sesión 1 (Tareas)](Sesion1T.pdf)
 - [Sesión 1 (Problemas)](Sesion1P.pdf)
 - [Sesión 2 (Tareas)](Sesion2T.pdf)
