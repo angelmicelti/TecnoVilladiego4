@@ -14,7 +14,7 @@ Prueba [este archivo](https://github.com/angelmicelti/TecnoVilladiego4/raw/maste
 
 ## Smart Logic Simulator
 
-![Smart Logic Simulator](SmartLogicSimulator.png)  
+[![Smart Logic Simulator](SmartLogicSimulator.png)](https://play.google.com/store/apps/details?id=com.tomaszczart.smartlogicsimulator)  
 
 Podemos encontrar esta aplicación en [este enlace](https://play.google.com/store/apps/details?id=com.tomaszczart.smartlogicsimulator).
 
