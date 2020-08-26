@@ -4,7 +4,7 @@
 
 ### Ejemplo de circuito del problema 10.4 creado con este simulador
 
-![Problema 10.4](Problema10.4.png). 
+![Problema 10.4](Problema10.4LCS.jpg). 
 
 Prueba [este archivo](https://github.com/angelmicelti/TecnoVilladiego4/raw/master/EDI/Apps/Problema10.4.txt) directamente en el simulador.
 
@@ -13,7 +13,7 @@ Prueba [este archivo](https://github.com/angelmicelti/TecnoVilladiego4/raw/maste
 
 ### Ejemplo de circuito del problema 10.4 creado con esta aplicación
 
-![Problema 10.4](Problema10.4.png). 
+![Problema 10.4](Problema10.4SLS.jpg). 
 
-Prueba [este archivo](https://github.com/angelmicelti/TecnoVilladiego4/raw/master/EDI/Apps/Problema10.4.txt) directamente en el simulador.
+Prueba [este archivo](https://github.com/angelmicelti/TecnoVilladiego4/raw/master/EDI/Apps/Problema10.4.slj) directamente en el simulador.
 
