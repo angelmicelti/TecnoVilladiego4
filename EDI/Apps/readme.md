@@ -2,7 +2,7 @@
 
 ## Logic Circuit Sim Pro
 
-![Logic Circuit Simulator Pro](LogicCircuitSimulatorPro.png)  
+[![Logic Circuit Simulator Pro](LogicCircuitSimulatorPro.png)](https://play.google.com/store/apps/details?id=com.duracodefactory.logiccircuitsimulatorpro)  
 
 Podemos encontrar esta aplicación en [este enlace](https://play.google.com/store/apps/details?id=com.duracodefactory.logiccircuitsimulatorpro)
 
