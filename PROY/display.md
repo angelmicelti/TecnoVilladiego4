@@ -8,4 +8,4 @@ Partiendo del [siguiente proyecto](https://youtu.be/xwL4EoiB8II) del canal [**Mu
 
 
 ## Resultado del trabajo de un grupo de alumnos y alumnas
-![Display de 7 segmentos](display.png)
+![Display de 7 segmentos](display.png "Display de 7 segmentos elaborado con cartón")
