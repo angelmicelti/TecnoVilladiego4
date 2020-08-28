@@ -1,4 +1,4 @@
-# **DISPLAY DE 7 segmentos**
+# **DISPLAY DE 7 SEGMENTOS**
 
 Partiendo del [siguiente proyecto](https://youtu.be/xwL4EoiB8II) del canal [**Muy Fácil de Hacer**](https://www.youtube.com/channel/UCyviADt1A0vK8HpBxugeIVw), se propone al alumnado que ejecute este proyecto, en el que aprenderán:  
 
