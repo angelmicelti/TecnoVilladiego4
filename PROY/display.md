@@ -6,4 +6,6 @@ Partiendo del [siguiente proyecto](https://youtu.be/xwL4EoiB8II) del canal [**Mu
 2) Soldadura
 3) Control del dispositivo utilizando Arduino. Por ejemplo, haciendo proyectos como [éste](https://github.com/angelmicelti/Arduineando-en-la-E.S.O./wiki/PROYECTO:-Si-me-miras,-te-enga%C3%B1o), [éste](https://youtu.be/5hGHWJj60g0) o [este otro](https://youtu.be/_W8l3vFphJs).
 
+
+## Resultado del trabajo de un grupo de alumnos y alumnas
 ![Display de 7 segmentos](display.png)
