@@ -1,8 +1,8 @@
-# ++**TRAINERBOT & ARDUINO TRAINER 1.0**++
+# **TRAINERBOT & ARDUINO TRAINER 1.0**
 
 ![](https://avatars1.githubusercontent.com/u/33671030?s=460&v=4)
 
-## ++TRAINERBOT++
+## **TRAINERBOT**
 ## [Repositorio de programas para el robot](https://github.com/HispalisRobiotics/robots) (del autor)
 
 ## Piezas
@@ -10,7 +10,7 @@
 - [Chasis superior](piezas/chasis_superior.stl)
 - [Rueda loca](piezas/rueda_lcoa.stl)
 
-## ++ARDUINO TRAINER++
+## **ARDUINO TRAINER**
 Programas de prueba en ArduinoBlocks
 Programas de prueba con Arduino (web del autor)
 
