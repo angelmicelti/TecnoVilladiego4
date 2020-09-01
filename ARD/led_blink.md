@@ -15,3 +15,4 @@ Llamamos a este sencillo montaje BLINK u "Hola Mundo", porque es el primer progr
 
 ## Reto
 Repite el montaje "Hola mundo" cambiando la frecuencia de encendido y apagado. Por ejemplo, 1,5 segundos encendido y 0,5 segundos apagado.
+Prueba, si te apetece, con otras combinaciones.
