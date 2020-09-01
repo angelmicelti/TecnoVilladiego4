@@ -11,7 +11,8 @@
 - [Rueda loca](piezas/rueda_lcoa.stl)
 
 ## **ARDUINO TRAINER**
-Programas de prueba en ArduinoBlocks
+Programas de prueba en ArduinoBlocks.  
+
 Programas de prueba con Arduino (web del autor)
 
 - [Elementos de un programa](https://github.com/HispalisRobiotics/elementos)
