@@ -17,4 +17,4 @@ Disponemos una secuencia de 8 ledes rojos que deben ir encendiéndose y apagánd
 
 ## Reto
 
-Prueba a cambiar las velocidad de las luces.
+Prueba a cambiar la velocidad de las luces.
