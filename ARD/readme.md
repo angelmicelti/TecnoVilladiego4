@@ -34,7 +34,7 @@
 
 ## Proyectos "nivel enteraíllo"
 
-- [Dado electrónico](dado_electrónico.md)
+- [ ] [Dado electrónico](dado_electrónico.md)
 - [ ] Cronómetro con display
 - [ ] Contador de pulsaciones en binario (8 bits)
 - [ ] Cadena de montaje (accionamiento de un motor en una sola dirección)
