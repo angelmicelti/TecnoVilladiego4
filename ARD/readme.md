@@ -49,8 +49,8 @@
 ---
 
 ### Proyectos del libro de 4º de E.S.O. de la Editorial Santillana
-- Semáforo con ledes de colores (133)
-- Encender un led con un pulsador (134)
+- [Semáforo con ledes de colores (133)](https://angelmicelti.github.io/4ESO/ARD/semforo_con_ledes_de_colores.html)
+- [Encender un led con un pulsador (134)](https://angelmicelti.github.io/4ESO/ARD/encender_un_led_con_un_pulsador0.html)
 - Leer el valor proporcionado por una LDR (140)
 - Crear una función para medir distancias mediante ultrasonidos (141)
 - Construir una lámpara de efectos RGB (142)
