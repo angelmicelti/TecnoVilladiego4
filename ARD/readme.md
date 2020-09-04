@@ -36,9 +36,6 @@
 
 - [Dado electrónico](dado_electrónico.md)
 - [ ] Cronómetro con display
-
-### Proyectos pendientes de clasificación
-
 - [ ] Contador de pulsaciones en binario (8 bits)
 - [ ] Cadena de montaje (accionamiento de un motor en una sola dirección)
 - [ ] Control del sentido de giro de un motor DC con pulsadores.
