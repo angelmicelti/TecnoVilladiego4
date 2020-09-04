@@ -51,13 +51,13 @@
 ### Proyectos del libro de 4º de E.S.O. de la Editorial Santillana
 - [Semáforo con ledes de colores (133)](https://angelmicelti.github.io/4ESO/ARD/semforo_con_ledes_de_colores.html)
 - [Encender un led con un pulsador (134)](https://angelmicelti.github.io/4ESO/ARD/encender_un_led_con_un_pulsador0.html)
-- Leer el valor proporcionado por una LDR (140)
-- Crear una función para medir distancias mediante ultrasonidos (141)
-- Construir una lámpara de efectos RGB (142)
-- Construir un acelerador (144)
-- Controlar totalmente un motor de corriente continua (146)
-- Programar un limpiaparabrisas (147)
-- Construye un girasol (148)
+- [Leer el valor proporcionado por una LDR (140)](https://angelmicelti.github.io/4ESO/ARD/leer_el_valor_proporcionado_por_una_ldr.html)
+- [Crear una función para medir distancias mediante ultrasonidos (141)](https://angelmicelti.github.io/4ESO/ARD/crear_una_funcin_para_medir_ultrasonidos.html)
+- [Construir una lámpara de efectos RGB (142)](https://angelmicelti.github.io/4ESO/ARD/construir_una_lmpara_de_efectos_rgb.html)
+- [Construir un acelerador (144)](https://angelmicelti.github.io/4ESO/ARD/construir_un_acelerador.html)
+- [Controlar totalmente un motor de corriente continua (146)](https://angelmicelti.github.io/4ESO/ARD/controlar_totalmente_un_motor_de_corriente_continua.html)
+- [Programar un limpiaparabrisas (147)](https://angelmicelti.github.io/4ESO/ARD/programar_un_limpiaparabrisas.html)
+- [Construye un girasol (148)](https://angelmicelti.github.io/4ESO/ARD/construye_un_girasol.html)
 
 ### Proyectos que vienen explicados y desarrollados en el libro de 3º de E.S.O.
 
