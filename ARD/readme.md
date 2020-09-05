@@ -92,6 +92,7 @@
 - [ ] Construir un control remoto por infrarrojos (228)
 - [ ] Construye un robot siguelíneas (232)
 
+### [Arduineando en la E.S.O.](https://github.com/angelmicelti/Arduineando-en-la-E.S.O./wiki)
 
 ### [Curso 2017-2018](curso2018.md)
 
