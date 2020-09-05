@@ -2,8 +2,6 @@
 
 ## [Apuntes de Arduino](https://angelmicelti.github.io/4ESO/ARD/index.html)
 
-### [Curso 2017-2018](curso2018.md)
-
 ## Proyectos "nivel pardillo"
 - [ ] [Proyecto 1: Hola Mundo](led_blink.md)
 - [ ] [Proyecto 2: Ledes alternativos](ledes_alternativos.md)
@@ -93,5 +91,8 @@
 - [ ] Construir un wearable el wire (226)
 - [ ] Construir un control remoto por infrarrojos (228)
 - [ ] Construye un robot siguelíneas (232)
+
+
+### [Curso 2017-2018](curso2018.md)
 
 [Volver a inicio](https://github.com/angelmicelti/TecnoVilladiego4)
