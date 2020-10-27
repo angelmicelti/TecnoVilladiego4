@@ -1,5 +1,11 @@
 # APLICACIONES DE MÓVIL PARA HACER ELECTRÓNICA DIGITAL
 
+## [Repositorio completo en esta web](https://docs.google.com/document/d/e/2PACX-1vSJEYPMYaJpa4BfxEC9DM7ygvEmAJJ4XFa03RcA89OeSug57UPMp-sYF3aGVeMLCykibptwTXGhQHzn/pub)
+
+---
+
+VEAMOS ALGUNOS EJEMPLOS
+
 ## Logic Circuit Sim Pro
 
 [![Logic Circuit Simulator Pro](LogicCircuitSimulatorPro.png)](https://play.google.com/store/apps/details?id=com.duracodefactory.logiccircuitsimulatorpro)  
