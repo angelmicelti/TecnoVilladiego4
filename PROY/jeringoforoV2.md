@@ -5,6 +5,3 @@ Un salto evidente es pasar del [jeringóforo que construimos en 3º](https://git
 Aquí tenemos una posible implementación del mismo.  
 
 [Jeringóforo V2](jeringoforoV2.stl)  
-
-<script src="https://embed.github.com/view/3d/angelmicelti/TecnoVilladiego4/blob/master/PROY/jeringoforoV2.stl"></script>
-
